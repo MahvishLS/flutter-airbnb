@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "888693406475",
+    "project_id": "flutter-airbnb-1806",
+    "storage_bucket": "flutter-airbnb-1806.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888693406475:android:af86c5cbb3234270fcc00e",
+        "android_client_info": {
+          "package_name": "com.example.airbnb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApkJPytDAbMwP-13G57kIqVoOiDRJHpzU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
