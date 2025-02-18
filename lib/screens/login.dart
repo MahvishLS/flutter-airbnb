@@ -1,4 +1,5 @@
 import 'package:airbnb/screens/signup.dart';
+import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:airbnb/theme.dart';
 import 'home_page.dart';
@@ -16,18 +17,24 @@ class _LoginPageState extends State<LoginPage> {
 
   String? _errorText;
 
-  void _handleLogin() {
+  Future<void> _handleLogin() async {
     String email = _emailController.text.trim();
     String password = _passwordController.text.trim();
 
-    if (email == 'mahvish@gmail.com' && password == 'mahvish') {
+    try {
+      await FirebaseAuth.instance.signInWithEmailAndPassword(
+        email: email,
+        password: password,
+      );
+ 
       Navigator.pushReplacement(
         context,
         MaterialPageRoute(builder: (context) => HomeScreen()),
       );
-    } else {
+    } catch (e) {
+      // If login fails, show an error message
       setState(() {
-        _errorText = "Invalid email or password";
+        _errorText = "Invalid email or password. Please try again.";
       });
     }
   }

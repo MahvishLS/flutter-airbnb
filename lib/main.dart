@@ -1,16 +1,15 @@
+import 'package:airbnb/firebase_options.dart';
 import 'package:flutter/material.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:airbnb/screens/login.dart';
 import 'theme.dart';
 
 void main() async {
-  WidgetsFlutterBinding.ensureInitialized(); 
-  try {
-    await Firebase.initializeApp(); 
-  } catch (e) {
-    print("Firebase initialization error: $e");
-  }
-  runApp(const MyApp());
+  WidgetsFlutterBinding.ensureInitialized();
+  await Firebase.initializeApp(
+    options: DefaultFirebaseOptions.currentPlatform,
+  );
+  runApp(const MyApp()); 
 }
 
 class MyApp extends StatelessWidget {

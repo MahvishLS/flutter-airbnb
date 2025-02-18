@@ -1,6 +1,7 @@
 import 'package:airbnb/screens/login.dart';
 import 'package:flutter/material.dart';
 import 'package:airbnb/theme.dart';
+import 'package:firebase_auth/firebase_auth.dart'; 
 
 class SignUpPage extends StatefulWidget {
   const SignUpPage({super.key});
@@ -16,25 +17,49 @@ class _SignUpPageState extends State<SignUpPage> {
 
   String? _errorText;
 
-  // void _handleSignUp() {
-  //   String name = _nameController.text.trim();
-  //   String email = _emailController.text.trim();
-  //   String password = _passwordController.text.trim();
+  final FirebaseAuth _auth = FirebaseAuth.instance; 
 
-  //   if (name.isEmpty || email.isEmpty || password.isEmpty) {
-  //     setState(() {
-  //       _errorText = "Please fill in all fields.";
-  //     });
-  //   } else {
-  //     setState(() {
-  //       _errorText = null; 
-  //     });
-     
-  //     print('Name: $name');
-  //     print('Email: $email');
-  //     print('Password: $password');
-  //   }
-  // }
+
+  void _handleSignUp() async {
+    String name = _nameController.text.trim();
+    String email = _emailController.text.trim();
+    String password = _passwordController.text.trim();
+
+    if (name.isEmpty || email.isEmpty || password.isEmpty) {
+      setState(() {
+        _errorText = "Please fill in all fields.";
+      });
+    } else {
+      try {
+
+        UserCredential userCredential = await _auth.createUserWithEmailAndPassword(
+          email: email,
+          password: password,
+        );
+        
+        // User successfully created, navigate to login page
+        Navigator.pushReplacement(
+          context,
+          MaterialPageRoute(builder: (context) => const LoginPage()),
+        );
+      } on FirebaseAuthException catch (e) {
+        setState(() {
+          if (e.code == 'weak-password') {
+            _errorText = "The password is too weak.";
+          } else if (e.code == 'email-already-in-use') {
+            _errorText = "The account already exists for that email.";
+          } else {
+            _errorText = e.message;
+          }
+        });
+      } catch (e) {
+        setState(() {
+          _errorText = "Something went wrong. Please try again.";
+        });
+      }
+    }
+  }
+
 
   @override
   Widget build(BuildContext context) {
