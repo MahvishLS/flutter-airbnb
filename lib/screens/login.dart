@@ -26,7 +26,7 @@ class _LoginPageState extends State<LoginPage> {
         email: email,
         password: password,
       );
- 
+
       Navigator.pushReplacement(
         context,
         MaterialPageRoute(builder: (context) => HomeScreen()),
@@ -43,87 +43,90 @@ class _LoginPageState extends State<LoginPage> {
   Widget build(BuildContext context) {
     return Scaffold(
       backgroundColor: backgroundColor,
-      body: Padding(
-        padding: const EdgeInsets.all(16.0),
-        child: Column(
-          mainAxisAlignment: MainAxisAlignment.center,
-          children: [
-            Image.asset(
-              "assets/images/logo-airbnb.png",
-              height: 70,
-              fit: BoxFit.cover,
-            ),
-            const SizedBox(
-              height: 100,
-            ),
-            TextField(
-              controller: _emailController,
-              decoration: InputDecoration(
-                labelText: 'Email',
-                labelStyle: myTheme.inputDecorationTheme.labelStyle,
-                hintText: 'Enter your email',
-                hintStyle: myTheme.inputDecorationTheme.hintStyle,
-                border: myTheme.inputDecorationTheme.border,
-                focusedBorder:
-                    Theme.of(context).inputDecorationTheme.focusedBorder,
+      body: SafeArea(
+        child: SingleChildScrollView(
+          padding: const EdgeInsets.all(16.0),
+          child: Column(
+            crossAxisAlignment: CrossAxisAlignment.start,
+            children: [
+              const SizedBox(height: 50),
+              Center(
+                child: Image.asset(
+                  "assets/images/logo-airbnb.png",
+                  height: 70,
+                  fit: BoxFit.cover,
+                ),
               ),
-              keyboardType: TextInputType.emailAddress,
-            ),
-            const SizedBox(height: 20),
-            TextField(
-              controller: _passwordController,
-              decoration: InputDecoration(
-                labelText: 'Password',
-                labelStyle: myTheme.inputDecorationTheme.labelStyle,
-                hintText: 'Password',
-                hintStyle: myTheme.inputDecorationTheme.hintStyle,
-                border: myTheme.inputDecorationTheme.border,
-                focusedBorder:
-                    Theme.of(context).inputDecorationTheme.focusedBorder,
+              const SizedBox(height: 60),
+              TextField(
+                controller: _emailController,
+                decoration: InputDecoration(
+                  labelText: 'Email',
+                  labelStyle: myTheme.inputDecorationTheme.labelStyle,
+                  hintText: 'Enter your email',
+                  hintStyle: myTheme.inputDecorationTheme.hintStyle,
+                  border: myTheme.inputDecorationTheme.border,
+                  focusedBorder:
+                      Theme.of(context).inputDecorationTheme.focusedBorder,
+                ),
+                keyboardType: TextInputType.emailAddress,
               ),
-              obscureText: true,
-            ),
-            if (_errorText != null) ...[
-              const SizedBox(height: 10),
-              Text(_errorText!, style: TextStyle(color: Colors.red)),
+              const SizedBox(height: 20),
+              TextField(
+                controller: _passwordController,
+                decoration: InputDecoration(
+                  labelText: 'Password',
+                  labelStyle: myTheme.inputDecorationTheme.labelStyle,
+                  hintText: 'Password',
+                  hintStyle: myTheme.inputDecorationTheme.hintStyle,
+                  border: myTheme.inputDecorationTheme.border,
+                  focusedBorder:
+                      Theme.of(context).inputDecorationTheme.focusedBorder,
+                ),
+                obscureText: true,
+              ),
+              if (_errorText != null) ...[
+                const SizedBox(height: 10),
+                Text(_errorText!, style: TextStyle(color: Colors.red)),
+              ],
+              const SizedBox(height: 40),
+              SizedBox(
+                width: double.infinity,
+                child: ElevatedButton(
+                  onPressed: _handleLogin,
+                  style: ElevatedButton.styleFrom(
+                    backgroundColor: primaryColor,
+                    padding: const EdgeInsets.symmetric(vertical: 16),
+                  ),
+                  child: Text(
+                    'Login',
+                    style: Theme.of(context).textTheme.displaySmall?.copyWith(
+                          color: Theme.of(context).colorScheme.onPrimary,
+                        ),
+                  ),
+                ),
+              ),
+              const SizedBox(height: 20),
+              SizedBox(
+                width: double.infinity,
+                child: TextButton(
+                  onPressed: () {
+                    Navigator.push(
+                      context,
+                      MaterialPageRoute(
+                          builder: (context) => const SignUpPage()),
+                    );
+                  },
+                  child: Text(
+                    'Signup',
+                    style: Theme.of(context).textTheme.bodyLarge?.copyWith(
+                          color: primaryColor,
+                        ),
+                  ),
+                ),
+              ),
             ],
-            const SizedBox(height: 40),
-            SizedBox(
-              width: double.infinity,
-              child: ElevatedButton(
-                onPressed: _handleLogin,
-                style: ElevatedButton.styleFrom(
-                  backgroundColor: primaryColor,
-                  padding:
-                      const EdgeInsets.symmetric(vertical: 16, horizontal: 40),
-                ),
-                child: Text(
-                  'Login',
-                  style: Theme.of(context).textTheme.displaySmall?.copyWith(
-                        color: Theme.of(context).colorScheme.onPrimary,
-                      ),
-                ),
-              ),
-            ),
-            const SizedBox(height: 20),
-            SizedBox(
-              width: double.infinity,
-              child: TextButton(
-                onPressed: () {
-                  Navigator.push(
-                    context,
-                    MaterialPageRoute(builder: (context) => const SignUpPage()),
-                  );
-                },
-                child: Text(
-                  'Signup',
-                  style: Theme.of(context).textTheme.bodyLarge?.copyWith(
-                        color: primaryColor, 
-                      ),
-                ),
-              ),
-            )
-          ],
+          ),
         ),
       ),
     );
