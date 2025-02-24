@@ -6,7 +6,7 @@ class SearchPage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("Search", style: TextStyle(color: Colors.white),),
+        title: const Text("Search", style: TextStyle(color: Colors.white),),
         backgroundColor: primaryColor,
       ),
       body: Padding(
@@ -15,7 +15,7 @@ class SearchPage extends StatelessWidget {
           children: [
             TextField(
               decoration: InputDecoration(
-                prefixIcon: Icon(Icons.search, color: greyColor),
+                prefixIcon: const Icon(Icons.search, color: greyColor),
                 hintText: "Search destinations",
                 filled: true,
                 fillColor: Colors.white,

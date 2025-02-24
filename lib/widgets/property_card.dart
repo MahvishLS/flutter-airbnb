@@ -2,6 +2,10 @@ import 'package:flutter/material.dart';
 import 'package:airbnb/theme.dart';
 
 class PropertyCard extends StatefulWidget {
+  final Map<String, dynamic> property;
+
+  PropertyCard({required this.property});
+
   @override
   _PropertyCardState createState() => _PropertyCardState();
 }
@@ -21,8 +25,9 @@ class _PropertyCardState extends State<PropertyCard> {
             borderRadius: BorderRadius.vertical(top: Radius.circular(16)),
             child: Stack(
               children: [
-                Image.asset(
-                  "assets/images/property.png",
+                Image.network(
+                  widget.property['images'][0] ??
+                      "https://via.placeholder.com/300",
                   width: double.infinity,
                   height: 235,
                   fit: BoxFit.cover,
@@ -38,7 +43,7 @@ class _PropertyCardState extends State<PropertyCard> {
                     ),
                     onPressed: () {
                       setState(() {
-                        isFavorite = !isFavorite; 
+                        isFavorite = !isFavorite;
                       });
                     },
                   ),
@@ -51,20 +56,28 @@ class _PropertyCardState extends State<PropertyCard> {
             child: Column(
               crossAxisAlignment: CrossAxisAlignment.start,
               children: [
-                Text("Gokarna, India", style: Theme.of(context).textTheme.titleLarge),
-                Text("521 kilometres away | 1-6 Feb", style: Theme.of(context).textTheme.bodySmall),
+                Text(widget.property['name'] ?? "No Title",
+                    style: Theme.of(context).textTheme.titleLarge),
+                Text(
+                    "${widget.property['city'] ?? 'Unknown Location'}",
+                    style: Theme.of(context).textTheme.bodySmall),
                 SizedBox(height: 4),
-                Text("₹30,020 night", style: Theme.of(context).textTheme.titleMedium),
+                Text("₹${widget.property['price']} per night",
+                    style: Theme.of(context).textTheme.titleMedium),
                 SizedBox(height: 8),
                 ElevatedButton(
                   onPressed: () {},
                   style: ElevatedButton.styleFrom(
                     backgroundColor: primaryColor,
-                    padding: const EdgeInsets.symmetric(vertical: 12, horizontal: 40),
+                    padding: const EdgeInsets.symmetric(
+                        vertical: 12, horizontal: 40),
                   ),
                   child: Text(
                     "View",
-                    style: Theme.of(context).textTheme.bodyLarge?.copyWith(color: Colors.white),
+                    style: Theme.of(context)
+                        .textTheme
+                        .bodyLarge
+                        ?.copyWith(color: Colors.white),
                   ),
                 ),
               ],

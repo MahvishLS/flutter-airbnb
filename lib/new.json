@@ -1,0 +1,629 @@
+{
+    "status": true,
+    "message": "Success",
+    "timestamp": 1740306608862,
+    "data": {
+        "count": "1,000+",
+        "filter": {
+            "count": "1,000+",
+            "priceMin": 50,
+            "priceMax": 800
+        },
+        "list": [
+            {
+                "listing": {
+                    "avgRatingLocalized": "4.93 (115)",
+                    "avgRatingA11yLabel": "4.93 out of 5 average rating,  115 reviews",
+                    "city": "Mumbai",
+                    "contextualPictures": [
+                        {
+                            "id": "1711705041",
+                            "picture": "https://a0.muscache.com/im/pictures/979a0745-e0cf-41c8-8643-b1f647df140a.jpg?im_w=720",
+                            "caption": null
+                        },
+                        {
+                            "id": "2032304189",
+                            "picture": "https://a0.muscache.com/im/pictures/hosting/Hosting-949178357822527152/original/65fbccbf-9397-4923-a2d4-805c3ea40594.jpeg?im_w=720",
+                            "caption": null
+                        },
+                        {
+                            "id": "1922308405",
+                            "picture": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6OTQ5MTc4MzU3ODIyNTI3MTUy/original/0936aadd-dd1f-4212-b3ec-a6abb67f9d05.jpeg?im_w=720",
+                            "caption": {
+                                "kickerBadge": null,
+                                "messages": [
+                                    "1.5 bathrooms"
+                                ],
+                                "textColor": null,
+                                "formattedMessages": null
+                            }
+                        },
+                        {
+                            "id": "2032321726",
+                            "picture": "https://a0.muscache.com/im/pictures/hosting/Hosting-949178357822527152/original/da54219d-b2f5-4d64-a08e-4cd49701466e.jpeg?im_w=720",
+                            "caption": {
+                                "kickerBadge": null,
+                                "messages": [
+                                    "1 double bed"
+                                ],
+                                "textColor": null,
+                                "formattedMessages": null
+                            }
+                        },
+                        {
+                            "id": "1711706832",
+                            "picture": "https://a0.muscache.com/im/pictures/8f2cddd4-7add-4640-9ed9-7033a01dd63d.jpg?im_w=720",
+                            "caption": {
+                                "kickerBadge": null,
+                                "messages": [
+                                    "Rated 4.9 out of 5 for cleanliness"
+                                ],
+                                "textColor": null,
+                                "formattedMessages": null
+                            }
+                        },
+                        {
+                            "id": "1713882129",
+                            "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-949178357822527152/original/5ec66415-a84f-4825-a63e-4c5a853c6711.jpeg?im_w=720",
+                            "caption": null
+                        },
+                        {
+                            "id": "1711706924",
+                            "picture": "https://a0.muscache.com/im/pictures/18257ded-5b50-45e1-a5f0-1f7d2aa251ad.jpg?im_w=720",
+                            "caption": null
+                        },
+                        {
+                            "id": "1711705068",
+                            "picture": "https://a0.muscache.com/im/pictures/12ba0083-80a1-4f43-98b6-fc444e763f06.jpg?im_w=720",
+                            "caption": null
+                        },
+                        {
+                            "id": "1713882128",
+                            "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-949178357822527152/original/9a83c2bb-0b7a-467a-80d0-92db74b94f03.jpeg?im_w=720",
+                            "caption": null
+                        },
+                        {
+                            "id": "1713882494",
+                            "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-949178357822527152/original/b48f35cf-3a7d-48d7-aa63-0aac8e5e0b7f.jpeg?im_w=720",
+                            "caption": null
+                        },
+                        {
+                            "id": "1713882833",
+                            "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-949178357822527152/original/1ca980ea-4e28-49fd-8e5e-93da612aa382.jpeg?im_w=720",
+                            "caption": null
+                        },
+                        {
+                            "id": "1715012946",
+                            "picture": "https://a0.muscache.com/im/pictures/07590679-dece-4fab-b262-1482de7f49e0.jpg?im_w=720",
+                            "caption": null
+                        },
+                        {
+                            "id": "1930848257",
+                            "picture": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6OTQ5MTc4MzU3ODIyNTI3MTUy/original/4ce06bcf-1c2c-4157-95a4-2ddfdb2396b5.jpeg?im_w=720",
+                            "caption": null
+                        },
+                        {
+                            "id": "2032302235",
+                            "picture": "https://a0.muscache.com/im/pictures/hosting/Hosting-949178357822527152/original/4ce67c0d-be73-4989-870e-ea057df6a7da.jpeg?im_w=720",
+                            "caption": null
+                        },
+                        {
+                            "id": "2032321727",
+                            "picture": "https://a0.muscache.com/im/pictures/hosting/Hosting-949178357822527152/original/e0d9e8e9-27c4-41bb-a94b-b57a7d97d16c.jpeg?im_w=720",
+                            "caption": null
+                        },
+                        {
+                            "id": "2032321728",
+                            "picture": "https://a0.muscache.com/im/pictures/hosting/Hosting-949178357822527152/original/542bf64f-b165-42df-85e4-7c939e1b0b56.jpeg?im_w=720",
+                            "caption": null
+                        },
+                        {
+                            "id": "2032321729",
+                            "picture": "https://a0.muscache.com/im/pictures/hosting/Hosting-949178357822527152/original/b20872b9-f860-407e-8aca-0ad7c5167345.jpeg?im_w=720",
+                            "caption": null
+                        }
+                    ],
+                    "contextualPicturesCount": 17,
+                    "contextualPicturesPageInfo": null,
+                    "coordinate": {
+                        "longitude": 72.83048,
+                        "latitude": 19.00381
+                    },
+                    "formattedBadges": [
+                        {
+                            "textColor": "#222222",
+                            "text": "Guest favourite",
+                            "borderColor": "rgba(0, 0, 0, 0.2)",
+                            "backgroundColor": "rgba(255, 255, 255, 0.95)"
+                        }
+                    ],
+                    "id": "949178357822527152",
+                    "isAutoTranslated": false,
+                    "listingObjType": "REGULAR",
+                    "localizedCityName": "Mumbai",
+                    "name": "Luxury room & great view in hi-rise posh building",
+                    "primaryHostPassport": {
+                        "isSuperhost": true,
+                        "isVerified": true,
+                        "name": "Perry",
+                        "profilePictureUrl": null,
+                        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/User/original/71915168-aec0-4684-8417-7dfc0f5660c4.jpeg?aki_policy=profile_small",
+                        "stats": [
+                            {
+                                "type": "REVIEW_COUNT",
+                                "a11yValue": "115 reviews on the listing",
+                                "label": "Reviews",
+                                "value": "115"
+                            },
+                            {
+                                "type": "RATING",
+                                "a11yValue": "4.93 out of 5 average rating on the listing",
+                                "label": "Rating",
+                                "value": "4.93"
+                            },
+                            {
+                                "type": "YEARS_HOSTING",
+                                "a11yValue": "2 years of hosting",
+                                "label": "Years hosting",
+                                "value": "2"
+                            }
+                        ],
+                        "titleText": "Superhost",
+                        "userId": "527619176"
+                    },
+                    "pdpType": "MARKETPLACE",
+                    "roomTypeCategory": "private_room",
+                    "roomTypeId": null,
+                    "structuredContent": {
+                        "primaryLine": null,
+                        "secondaryLine": [
+                            {
+                                "type": null,
+                                "headline": null,
+                                "body": "5 nights",
+                                "bodyType": null,
+                                "bodyA11yLabel": null,
+                                "fontWeight": null
+                            },
+                            {
+                                "type": null,
+                                "headline": null,
+                                "body": "27 Mar – 1 Apr",
+                                "bodyType": null,
+                                "bodyA11yLabel": null,
+                                "fontWeight": null
+                            }
+                        ],
+                        "mapPrimaryLine": null,
+                        "mapSecondaryLine": [
+                            {
+                                "type": null,
+                                "headline": null,
+                                "body": "5 nights",
+                                "bodyType": null,
+                                "bodyA11yLabel": null,
+                                "fontWeight": null
+                            },
+                            {
+                                "type": null,
+                                "headline": null,
+                                "body": "27 Mar – 1 Apr",
+                                "bodyType": null,
+                                "bodyA11yLabel": null,
+                                "fontWeight": null
+                            }
+                        ],
+                        "mapCategoryInfo": null,
+                        "distance": [
+                            {
+                                "type": "LISTING_PRIVATE_ROOM_SUITE_HIGHLIGHT",
+                                "headline": null,
+                                "body": "Stay with Perry",
+                                "bodyType": null,
+                                "bodyA11yLabel": null,
+                                "fontWeight": null
+                            },
+                            {
+                                "type": "LISTING_PRIVATE_ROOM_SUITE_HIGHLIGHT",
+                                "headline": null,
+                                "body": "Finance & textile",
+                                "bodyType": null,
+                                "bodyA11yLabel": null,
+                                "fontWeight": null
+                            }
+                        ]
+                    },
+                    "tierId": 0,
+                    "title": "Room in Worli",
+                    "titleLocale": "en",
+                    "webURL": "https://www.airbnb.com/rooms/949178357822527152?guests=1&adults=1"
+                },
+                "pricingQuote": {
+                    "structuredStayDisplayPrice": {
+                        "primaryLine": {
+                            "accessibilityLabel": "$54 per night",
+                            "displayComponentType": "QUALIFIED_DISPLAY_PRICE_LINE",
+                            "concatQualifierLeft": false,
+                            "price": "$54",
+                            "qualifier": "night before taxes",
+                            "trailingContent": null,
+                            "shortQualifier": "night"
+                        },
+                        "secondaryLine": null,
+                        "explanationData": {
+                            "title": "Price details",
+                            "priceDetails": [
+                                {
+                                    "items": [
+                                        {
+                                            "description": "$40 x 5 nights",
+                                            "priceString": "$202"
+                                        },
+                                        {
+                                            "description": "Airbnb service fee",
+                                            "priceString": "$40"
+                                        },
+                                        {
+                                            "description": "Taxes",
+                                            "priceString": "$24"
+                                        }
+                                    ],
+                                    "displayComponentType": "DISPLAY_PRICE_EXPLANATION_LINE_GROUP",
+                                    "shouldRenderTopBorder": false
+                                },
+                                {
+                                    "items": [
+                                        {
+                                            "description": "Total",
+                                            "priceString": "$266",
+                                            "originalPriceString": null,
+                                            "accessibilityLabel": "$266 total before taxes"
+                                        }
+                                    ],
+                                    "displayComponentType": null,
+                                    "shouldRenderTopBorder": true
+                                }
+                            ]
+                        },
+                        "explanationDataDisplayPosition": "PRIMARY_LINE"
+                    }
+                },
+                "listingParamOverrides": {
+                    "adults": 1,
+                    "children": 0,
+                    "infants": 0,
+                    "checkin": "2025-03-27",
+                    "checkout": "2025-04-01",
+                    "causeId": null,
+                    "relaxedAmenityIds": null,
+                    "categoryTag": "Tag:8678",
+                    "pets": 0,
+                    "splitStaysUuid": null,
+                    "highlightType": null,
+                    "enableM3PrivateRoom": true
+                }
+            },
+            {
+                "listing": {
+                    "avgRatingLocalized": "4.97 (283)",
+                    "avgRatingA11yLabel": "4.97 out of 5 average rating,  283 reviews",
+                    "city": "Mumbai",
+                    "contextualPictures": [
+                        {
+                            "id": "1631643002",
+                            "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-33143551/original/2ae34b82-5b72-435a-af81-1701d046d89e.jpeg?im_w=720",
+                            "caption": null
+                        },
+                        {
+                            "id": "1631644104",
+                            "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-33143551/original/bb1ab6cb-1d39-4591-b0b2-eb324172d5d1.jpeg?im_w=720",
+                            "caption": {
+                                "kickerBadge": null,
+                                "messages": [
+                                    "1 bed",
+                                    "1 bedroom"
+                                ],
+                                "textColor": null,
+                                "formattedMessages": null
+                            }
+                        },
+                        {
+                            "id": "1631644169",
+                            "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-33143551/original/2f002da6-bfc2-424c-bcf6-49a717536afe.jpeg?im_w=720",
+                            "caption": {
+                                "kickerBadge": null,
+                                "messages": [
+                                    "1 private bathroom"
+                                ],
+                                "textColor": null,
+                                "formattedMessages": null
+                            }
+                        },
+                        {
+                            "id": "1631644352",
+                            "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-33143551/original/f79e0801-9890-4536-9299-8868120bfdb1.jpeg?im_w=720",
+                            "caption": {
+                                "kickerBadge": null,
+                                "messages": [
+                                    "1 queen bed"
+                                ],
+                                "textColor": null,
+                                "formattedMessages": null
+                            }
+                        },
+                        {
+                            "id": "1631644601",
+                            "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-33143551/original/02980c16-2b62-4389-ae5f-1e68f885e945.jpeg?im_w=720",
+                            "caption": {
+                                "kickerBadge": null,
+                                "messages": [
+                                    "Rated 5 out of 5 for cleanliness"
+                                ],
+                                "textColor": null,
+                                "formattedMessages": null
+                            }
+                        },
+                        {
+                            "id": "1763327438",
+                            "picture": "https://a0.muscache.com/im/pictures/09bcab27-4e07-42f3-a266-ba9716dec1aa.jpg?im_w=720",
+                            "caption": null
+                        },
+                        {
+                            "id": "1631644443",
+                            "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-33143551/original/5b3f3811-427d-4b9c-b9b4-5b0a34b85135.jpeg?im_w=720",
+                            "caption": null
+                        },
+                        {
+                            "id": "1763327686",
+                            "picture": "https://a0.muscache.com/im/pictures/502d2a41-0709-40d5-8a6f-7dd8e682a4d6.jpg?im_w=720",
+                            "caption": null
+                        },
+                        {
+                            "id": "1631644860",
+                            "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-33143551/original/eefd29b0-1586-418a-bfa3-56f1fa499223.jpeg?im_w=720",
+                            "caption": null
+                        },
+                        {
+                            "id": "1631645356",
+                            "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-33143551/original/8f6c3ad4-5538-4229-97e7-869fd8687482.jpeg?im_w=720",
+                            "caption": null
+                        },
+                        {
+                            "id": "1848963943",
+                            "picture": "https://a0.muscache.com/im/pictures/hosting/Hosting-33143551/original/c8accd4b-56ee-4824-bcc3-1629d9a94001.jpeg?im_w=720",
+                            "caption": null
+                        },
+                        {
+                            "id": "1850945370",
+                            "picture": "https://a0.muscache.com/im/pictures/hosting/Hosting-33143551/original/72ebf3bf-1203-4c97-946c-8ee57a54e210.jpeg?im_w=720",
+                            "caption": null
+                        },
+                        {
+                            "id": "1850945362",
+                            "picture": "https://a0.muscache.com/im/pictures/hosting/Hosting-33143551/original/8fcdf1d8-2fb2-4265-be55-a71169ccfd8d.jpeg?im_w=720",
+                            "caption": null
+                        },
+                        {
+                            "id": "1631645220",
+                            "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-33143551/original/01220a5b-271f-403e-adc9-ddc9decde252.jpeg?im_w=720",
+                            "caption": null
+                        },
+                        {
+                            "id": "1631645392",
+                            "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-33143551/original/67abaf7b-dda0-47cc-bda6-735e5c8587ff.jpeg?im_w=720",
+                            "caption": null
+                        },
+                        {
+                            "id": "1756692505",
+                            "picture": "https://a0.muscache.com/im/pictures/5a8f15e3-e6c1-4c6e-b2b1-d3e73368c3d9.jpg?im_w=720",
+                            "caption": null
+                        },
+                        {
+                            "id": "1763821112",
+                            "picture": "https://a0.muscache.com/im/pictures/a0d3804a-32b1-4ef7-8282-f59b5602de5a.jpg?im_w=720",
+                            "caption": null
+                        },
+                        {
+                            "id": "1648946393",
+                            "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-33143551/original/03836552-ee86-470e-a47b-903a9f0b8072.jpeg?im_w=720",
+                            "caption": null
+                        },
+                        {
+                            "id": "1631645475",
+                            "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-33143551/original/4c56bf31-1165-4721-a6a2-062df8ec68bf.jpeg?im_w=720",
+                            "caption": null
+                        },
+                        {
+                            "id": "1705398129",
+                            "picture": "https://a0.muscache.com/im/pictures/4bdd89a6-76a3-4b80-b949-dfd4bd4a6e5c.jpg?im_w=720",
+                            "caption": null
+                        }
+                    ],
+                    "contextualPicturesCount": 20,
+                    "contextualPicturesPageInfo": null,
+                    "coordinate": {
+                        "longitude": 72.82785,
+                        "latitude": 19.05816
+                    },
+                    "formattedBadges": [
+                        {
+                            "textColor": "#222222",
+                            "text": "Guest favourite",
+                            "borderColor": "rgba(0, 0, 0, 0.2)",
+                            "backgroundColor": "rgba(255, 255, 255, 0.95)"
+                        }
+                    ],
+                    "id": "33143551",
+                    "isAutoTranslated": false,
+                    "listingObjType": "REGULAR",
+                    "localizedCityName": "Mumbai",
+                    "name": "The White Room in Bandra West",
+                    "primaryHostPassport": {
+                        "isSuperhost": true,
+                        "isVerified": true,
+                        "name": "Conrad",
+                        "profilePictureUrl": null,
+                        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/User-249551291/original/daa22155-1ce0-4351-a27a-cd80d9835a12.jpeg?aki_policy=profile_small",
+                        "stats": [
+                            {
+                                "type": "REVIEW_COUNT",
+                                "a11yValue": "283 reviews on the listing",
+                                "label": "Reviews",
+                                "value": "283"
+                            },
+                            {
+                                "type": "RATING",
+                                "a11yValue": "4.97 out of 5 average rating on the listing",
+                                "label": "Rating",
+                                "value": "4.97"
+                            },
+                            {
+                                "type": "YEARS_HOSTING",
+                                "a11yValue": "6 years of hosting",
+                                "label": "Years hosting",
+                                "value": "6"
+                            }
+                        ],
+                        "titleText": "Superhost",
+                        "userId": "249551291"
+                    },
+                    "pdpType": "MARKETPLACE",
+                    "roomTypeCategory": "private_room",
+                    "roomTypeId": null,
+                    "structuredContent": {
+                        "primaryLine": null,
+                        "secondaryLine": [
+                            {
+                                "type": null,
+                                "headline": null,
+                                "body": "5 nights",
+                                "bodyType": null,
+                                "bodyA11yLabel": null,
+                                "fontWeight": null
+                            },
+                            {
+                                "type": null,
+                                "headline": null,
+                                "body": "16–21 Mar",
+                                "bodyType": null,
+                                "bodyA11yLabel": null,
+                                "fontWeight": null
+                            }
+                        ],
+                        "mapPrimaryLine": null,
+                        "mapSecondaryLine": [
+                            {
+                                "type": null,
+                                "headline": null,
+                                "body": "5 nights",
+                                "bodyType": null,
+                                "bodyA11yLabel": null,
+                                "fontWeight": null
+                            },
+                            {
+                                "type": null,
+                                "headline": null,
+                                "body": "16–21 Mar",
+                                "bodyType": null,
+                                "bodyA11yLabel": null,
+                                "fontWeight": null
+                            }
+                        ],
+                        "mapCategoryInfo": null,
+                        "distance": [
+                            {
+                                "type": "LISTING_PRIVATE_ROOM_SUITE_HIGHLIGHT",
+                                "headline": null,
+                                "body": "Stay with Conrad",
+                                "bodyType": null,
+                                "bodyA11yLabel": null,
+                                "fontWeight": null
+                            },
+                            {
+                                "type": "LISTING_PRIVATE_ROOM_SUITE_HIGHLIGHT",
+                                "headline": null,
+                                "body": "Hosting for 6 years",
+                                "bodyType": null,
+                                "bodyA11yLabel": null,
+                                "fontWeight": null
+                            }
+                        ]
+                    },
+                    "tierId": 0,
+                    "title": "Room in Bandra - Khar",
+                    "titleLocale": "en",
+                    "webURL": "https://www.airbnb.com/rooms/33143551?guests=1&adults=1"
+                },
+                "pricingQuote": {
+                    "structuredStayDisplayPrice": {
+                        "primaryLine": {
+                            "accessibilityLabel": "$49 per night",
+                            "displayComponentType": "QUALIFIED_DISPLAY_PRICE_LINE",
+                            "concatQualifierLeft": false,
+                            "price": "$49",
+                            "qualifier": "night before taxes",
+                            "trailingContent": null,
+                            "shortQualifier": "night"
+                        },
+                        "secondaryLine": null,
+                        "explanationData": {
+                            "title": "Price details",
+                            "priceDetails": [
+                                {
+                                    "items": [
+                                        {
+                                            "description": "$36 x 5 nights",
+                                            "priceString": "$179"
+                                        },
+                                        {
+                                            "description": "Cleaning fee",
+                                            "priceString": "$5"
+                                        },
+                                        {
+                                            "description": "Airbnb service fee",
+                                            "priceString": "$36"
+                                        },
+                                        {
+                                            "description": "Taxes",
+                                            "priceString": "$22"
+                                        }
+                                    ],
+                                    "displayComponentType": "DISPLAY_PRICE_EXPLANATION_LINE_GROUP",
+                                    "shouldRenderTopBorder": false
+                                },
+                                {
+                                    "items": [
+                                        {
+                                            "description": "Total",
+                                            "priceString": "$242",
+                                            "originalPriceString": null,
+                                            "accessibilityLabel": "$242 total before taxes"
+                                        }
+                                    ],
+                                    "displayComponentType": null,
+                                    "shouldRenderTopBorder": true
+                                }
+                            ]
+                        },
+                        "explanationDataDisplayPosition": "PRIMARY_LINE"
+                    }
+                },
+                "listingParamOverrides": {
+                    "adults": 1,
+                    "children": 0,
+                    "infants": 0,
+                    "checkin": "2025-03-16",
+                    "checkout": "2025-03-21",
+                    "causeId": null,
+                    "relaxedAmenityIds": null,
+                    "categoryTag": "Tag:8678",
+                    "pets": 0,
+                    "splitStaysUuid": null,
+                    "highlightType": null,
+                    "enableM3PrivateRoom": true
+                }
+            }
+        ],
+        "nextPageCursor": "eyJzZWN0aW9uX29mZnNldCI6MiwiaXRlbXNfb2Zmc2V0IjoyLCJ2ZXJzaW9uIjoxfQ=="
+    }
+}
