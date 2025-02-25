@@ -1,8 +1,8 @@
 import 'package:airbnb/screens/signup.dart';
+import 'package:airbnb/widgets/bottom_navigation.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:airbnb/theme.dart';
-import 'home_page.dart';
 
 class LoginPage extends StatefulWidget {
   const LoginPage({super.key});
@@ -28,9 +28,9 @@ class _LoginPageState extends State<LoginPage> {
       );
 
       Navigator.pushReplacement(
-        context,
-        MaterialPageRoute(builder: (context) => HomeScreen()),
-      );
+      context,
+      MaterialPageRoute(builder: (context) => BottomNavBar()),
+    );
     } catch (e) {
       // If login fails, show an error message
       setState(() {
@@ -47,13 +47,14 @@ class _LoginPageState extends State<LoginPage> {
         child: SingleChildScrollView(
           padding: const EdgeInsets.all(16.0),
           child: Column(
-            crossAxisAlignment: CrossAxisAlignment.start,
+             mainAxisAlignment: MainAxisAlignment.center,
+             crossAxisAlignment: CrossAxisAlignment.center,
             children: [
-              const SizedBox(height: 50),
+              const SizedBox(height: 180),
               Center(
                 child: Image.asset(
                   "assets/images/logo-airbnb.png",
-                  height: 70,
+                  height: 60,
                   fit: BoxFit.cover,
                 ),
               ),

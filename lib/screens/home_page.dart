@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import '../widgets/category.dart';
-import '../widgets/bottom_navigation.dart';
 import '../widgets/property_card.dart';
 import '../theme.dart';
 import 'search_screen.dart';
@@ -38,7 +37,6 @@ class HomeScreen extends StatelessWidget {
           ],
         ),
       ),
-      bottomNavigationBar: BottomNavBar(),
     );
   }
 }

@@ -1,0 +1,173 @@
+{
+    "id": "47568883",
+    "photoId": null,
+    "listing": {
+      "id": "47568883",
+      "title": "Villa in Lucknow",
+      "titleLocale": "en",
+      "name": "Nahil's | Safe Villa | Non-Shared |Caretaker-24hr",
+      "localizedCityName": "Lucknow",
+      "city": "Lucknow",
+      "avgRatingLocalized": "4.94 (187)",
+      "avgRatingA11yLabel": "4.94 out of 5 average rating,  187 reviews",
+      "contextualPictures": [
+        {
+          "id": "1619774068",
+          "picture": "https://a0.muscache.com/im/pictures/62d40c6e-f0e0-4ca6-a654-5dbb83fd5725.jpg?im_w=720",
+          "caption": null
+        },
+        {
+          "id": "1379025469",
+          "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-47568883/original/5d7c1e11-c1c5-4420-8da7-1bceea0790c6.jpeg?im_w=720",
+          "caption": {
+            "kickerBadge": null,
+            "messages": [
+              "3 beds",
+              "2 bedrooms"
+            ],
+            "textColor": null,
+            "formattedMessages": null
+          }
+        },
+        {
+          "id": "1428345695",
+          "picture": "https://a0.muscache.com/im/pictures/8101b3d0-1f28-42f0-b42c-92f0bdbb84ee.jpg?im_w=720",
+          "caption": {
+            "kickerBadge": null,
+            "messages": [
+              "2 baths"
+            ],
+            "textColor": null,
+            "formattedMessages": null
+          }
+        },
+        {
+          "id": "1621318473",
+          "picture": "https://a0.muscache.com/im/pictures/de20eaf2-0370-48b1-9a73-df9e02791af3.jpg?im_w=720",
+          "caption": {
+            "kickerBadge": null,
+            "messages": [
+              "2 king beds",
+              "1 sofa bed"
+            ],
+            "textColor": null,
+            "formattedMessages": null
+          }
+        },
+        {
+          "id": "1620506558",
+          "picture": "https://a0.muscache.com/im/pictures/3191e68b-30b4-4b12-a5bc-eff4983421f2.jpg?im_w=720",
+          "caption": {
+            "kickerBadge": null,
+            "messages": [
+              "Wifi",
+              "Self check-in",
+              "Kitchen",
+              "Free parking"
+            ],
+            "textColor": null,
+            "formattedMessages": null
+          }
+        },
+        {
+          "id": "1619884486",
+          "picture": "https://a0.muscache.com/im/pictures/307fb2a4-fa2f-4f97-8450-a6384a2a2302.jpg?im_w=720",
+          "caption": {
+            "kickerBadge": null,
+            "messages": [
+              "Rated 4.8 out of 5 for cleanliness"
+            ],
+            "textColor": null,
+            "formattedMessages": null
+          }
+        }
+      ],
+      "coordinate": {
+        "longitude": 80.988762,
+        "latitude": 26.883795
+      },
+      "formattedBadges": [
+        {
+          "text": "Guest favorite",
+          "textColor": "#000000",
+          "style": "LOUD_ROUNDED_PILL",
+          "loggingContext": {
+            "badgeType": "GUEST_FAVORITE"
+          }
+        }
+      ],
+      "isAutoTranslated": false,
+      "listingObjType": "REGULAR",
+      "primaryHostPassport": null,
+      "pdpType": "MARKETPLACE",
+      "roomTypeCategory": "entire_home",
+      "roomTypeId": null,
+      "structuredContent": {
+        "primaryLine": [
+          {
+            "type": null,
+            "headline": null,
+            "body": "3 beds",
+            "bodyType": null,
+            "bodyA11yLabel": null,
+            "fontWeight": null
+          }
+        ],
+        "secondaryLine": [
+          {
+            "type": null,
+            "headline": null,
+            "body": "Feb 1 – 6",
+            "bodyType": null,
+            "bodyA11yLabel": null,
+            "fontWeight": null
+          }
+        ],
+        "mapPrimaryLine": null,
+        "mapSecondaryLine": [
+          {
+            "type": null,
+            "headline": null,
+            "body": "Feb 1 – 6",
+            "bodyType": null,
+            "bodyA11yLabel": null,
+            "fontWeight": null
+          }
+        ],
+        "mapCategoryInfo": null,
+        "distance": null
+      },
+      "tierId": 0
+    },
+    "pricingQuote": {
+      "structuredStayDisplayPrice": {
+        "primaryLine": {
+          "accessibilityLabel": "$51 per night, originally $57",
+          "displayComponentType": "DISCOUNTED_DISPLAY_PRICE_LINE",
+          "concatQualifierLeft": false,
+          "discountedPrice": "$51",
+          "originalPrice": "$57",
+          "qualifier": "night",
+          "trailingContent": null,
+          "shortQualifier": "night"
+        },
+        "secondaryLine": null,
+        "explanationData": null,
+        "explanationDataDisplayPosition": "SECONDARY_LINE"
+      }
+    },
+    "listingParamOverrides": {
+      "adults": 1,
+      "children": 0,
+      "infants": 0,
+      "checkin": "2024-02-01",
+      "checkout": "2024-02-06",
+      "causeId": null,
+      "relaxedAmenityIds": null,
+      "categoryTag": null,
+      "pets": 0,
+      "splitStaysUuid": null,
+      "highlightType": null,
+      "photoId": null
+    }
+  }

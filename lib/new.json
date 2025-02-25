@@ -1,629 +1,2676 @@
 {
     "status": true,
     "message": "Success",
-    "timestamp": 1740306608862,
+    "timestamp": 1706610083539,
     "data": {
-        "count": "1,000+",
-        "filter": {
-            "count": "1,000+",
-            "priceMin": 50,
-            "priceMax": 800
-        },
-        "list": [
-            {
-                "listing": {
-                    "avgRatingLocalized": "4.93 (115)",
-                    "avgRatingA11yLabel": "4.93 out of 5 average rating,  115 reviews",
-                    "city": "Mumbai",
-                    "contextualPictures": [
-                        {
-                            "id": "1711705041",
-                            "picture": "https://a0.muscache.com/im/pictures/979a0745-e0cf-41c8-8643-b1f647df140a.jpg?im_w=720",
-                            "caption": null
-                        },
-                        {
-                            "id": "2032304189",
-                            "picture": "https://a0.muscache.com/im/pictures/hosting/Hosting-949178357822527152/original/65fbccbf-9397-4923-a2d4-805c3ea40594.jpeg?im_w=720",
-                            "caption": null
-                        },
-                        {
-                            "id": "1922308405",
-                            "picture": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6OTQ5MTc4MzU3ODIyNTI3MTUy/original/0936aadd-dd1f-4212-b3ec-a6abb67f9d05.jpeg?im_w=720",
-                            "caption": {
-                                "kickerBadge": null,
-                                "messages": [
-                                    "1.5 bathrooms"
-                                ],
-                                "textColor": null,
-                                "formattedMessages": null
-                            }
-                        },
-                        {
-                            "id": "2032321726",
-                            "picture": "https://a0.muscache.com/im/pictures/hosting/Hosting-949178357822527152/original/da54219d-b2f5-4d64-a08e-4cd49701466e.jpeg?im_w=720",
-                            "caption": {
-                                "kickerBadge": null,
-                                "messages": [
-                                    "1 double bed"
-                                ],
-                                "textColor": null,
-                                "formattedMessages": null
-                            }
-                        },
-                        {
-                            "id": "1711706832",
-                            "picture": "https://a0.muscache.com/im/pictures/8f2cddd4-7add-4640-9ed9-7033a01dd63d.jpg?im_w=720",
-                            "caption": {
-                                "kickerBadge": null,
-                                "messages": [
-                                    "Rated 4.9 out of 5 for cleanliness"
-                                ],
-                                "textColor": null,
-                                "formattedMessages": null
-                            }
-                        },
-                        {
-                            "id": "1713882129",
-                            "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-949178357822527152/original/5ec66415-a84f-4825-a63e-4c5a853c6711.jpeg?im_w=720",
-                            "caption": null
-                        },
-                        {
-                            "id": "1711706924",
-                            "picture": "https://a0.muscache.com/im/pictures/18257ded-5b50-45e1-a5f0-1f7d2aa251ad.jpg?im_w=720",
-                            "caption": null
-                        },
-                        {
-                            "id": "1711705068",
-                            "picture": "https://a0.muscache.com/im/pictures/12ba0083-80a1-4f43-98b6-fc444e763f06.jpg?im_w=720",
-                            "caption": null
-                        },
-                        {
-                            "id": "1713882128",
-                            "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-949178357822527152/original/9a83c2bb-0b7a-467a-80d0-92db74b94f03.jpeg?im_w=720",
-                            "caption": null
-                        },
-                        {
-                            "id": "1713882494",
-                            "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-949178357822527152/original/b48f35cf-3a7d-48d7-aa63-0aac8e5e0b7f.jpeg?im_w=720",
-                            "caption": null
-                        },
-                        {
-                            "id": "1713882833",
-                            "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-949178357822527152/original/1ca980ea-4e28-49fd-8e5e-93da612aa382.jpeg?im_w=720",
-                            "caption": null
-                        },
-                        {
-                            "id": "1715012946",
-                            "picture": "https://a0.muscache.com/im/pictures/07590679-dece-4fab-b262-1482de7f49e0.jpg?im_w=720",
-                            "caption": null
-                        },
-                        {
-                            "id": "1930848257",
-                            "picture": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6OTQ5MTc4MzU3ODIyNTI3MTUy/original/4ce06bcf-1c2c-4157-95a4-2ddfdb2396b5.jpeg?im_w=720",
-                            "caption": null
-                        },
-                        {
-                            "id": "2032302235",
-                            "picture": "https://a0.muscache.com/im/pictures/hosting/Hosting-949178357822527152/original/4ce67c0d-be73-4989-870e-ea057df6a7da.jpeg?im_w=720",
-                            "caption": null
-                        },
-                        {
-                            "id": "2032321727",
-                            "picture": "https://a0.muscache.com/im/pictures/hosting/Hosting-949178357822527152/original/e0d9e8e9-27c4-41bb-a94b-b57a7d97d16c.jpeg?im_w=720",
-                            "caption": null
-                        },
-                        {
-                            "id": "2032321728",
-                            "picture": "https://a0.muscache.com/im/pictures/hosting/Hosting-949178357822527152/original/542bf64f-b165-42df-85e4-7c939e1b0b56.jpeg?im_w=720",
-                            "caption": null
-                        },
-                        {
-                            "id": "2032321729",
-                            "picture": "https://a0.muscache.com/im/pictures/hosting/Hosting-949178357822527152/original/b20872b9-f860-407e-8aca-0ad7c5167345.jpeg?im_w=720",
-                            "caption": null
-                        }
-                    ],
-                    "contextualPicturesCount": 17,
-                    "contextualPicturesPageInfo": null,
-                    "coordinate": {
-                        "longitude": 72.83048,
-                        "latitude": 19.00381
-                    },
-                    "formattedBadges": [
-                        {
-                            "textColor": "#222222",
-                            "text": "Guest favourite",
-                            "borderColor": "rgba(0, 0, 0, 0.2)",
-                            "backgroundColor": "rgba(255, 255, 255, 0.95)"
-                        }
-                    ],
-                    "id": "949178357822527152",
-                    "isAutoTranslated": false,
-                    "listingObjType": "REGULAR",
-                    "localizedCityName": "Mumbai",
-                    "name": "Luxury room & great view in hi-rise posh building",
-                    "primaryHostPassport": {
-                        "isSuperhost": true,
-                        "isVerified": true,
-                        "name": "Perry",
-                        "profilePictureUrl": null,
-                        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/User/original/71915168-aec0-4684-8417-7dfc0f5660c4.jpeg?aki_policy=profile_small",
-                        "stats": [
-                            {
-                                "type": "REVIEW_COUNT",
-                                "a11yValue": "115 reviews on the listing",
-                                "label": "Reviews",
-                                "value": "115"
-                            },
-                            {
-                                "type": "RATING",
-                                "a11yValue": "4.93 out of 5 average rating on the listing",
-                                "label": "Rating",
-                                "value": "4.93"
-                            },
-                            {
-                                "type": "YEARS_HOSTING",
-                                "a11yValue": "2 years of hosting",
-                                "label": "Years hosting",
-                                "value": "2"
-                            }
-                        ],
-                        "titleText": "Superhost",
-                        "userId": "527619176"
-                    },
-                    "pdpType": "MARKETPLACE",
-                    "roomTypeCategory": "private_room",
-                    "roomTypeId": null,
-                    "structuredContent": {
-                        "primaryLine": null,
-                        "secondaryLine": [
-                            {
-                                "type": null,
-                                "headline": null,
-                                "body": "5 nights",
-                                "bodyType": null,
-                                "bodyA11yLabel": null,
-                                "fontWeight": null
-                            },
-                            {
-                                "type": null,
-                                "headline": null,
-                                "body": "27 Mar – 1 Apr",
-                                "bodyType": null,
-                                "bodyA11yLabel": null,
-                                "fontWeight": null
-                            }
-                        ],
-                        "mapPrimaryLine": null,
-                        "mapSecondaryLine": [
-                            {
-                                "type": null,
-                                "headline": null,
-                                "body": "5 nights",
-                                "bodyType": null,
-                                "bodyA11yLabel": null,
-                                "fontWeight": null
-                            },
-                            {
-                                "type": null,
-                                "headline": null,
-                                "body": "27 Mar – 1 Apr",
-                                "bodyType": null,
-                                "bodyA11yLabel": null,
-                                "fontWeight": null
-                            }
-                        ],
-                        "mapCategoryInfo": null,
-                        "distance": [
-                            {
-                                "type": "LISTING_PRIVATE_ROOM_SUITE_HIGHLIGHT",
-                                "headline": null,
-                                "body": "Stay with Perry",
-                                "bodyType": null,
-                                "bodyA11yLabel": null,
-                                "fontWeight": null
-                            },
-                            {
-                                "type": "LISTING_PRIVATE_ROOM_SUITE_HIGHLIGHT",
-                                "headline": null,
-                                "body": "Finance & textile",
-                                "bodyType": null,
-                                "bodyA11yLabel": null,
-                                "fontWeight": null
-                            }
-                        ]
-                    },
-                    "tierId": 0,
-                    "title": "Room in Worli",
-                    "titleLocale": "en",
-                    "webURL": "https://www.airbnb.com/rooms/949178357822527152?guests=1&adults=1"
-                },
-                "pricingQuote": {
-                    "structuredStayDisplayPrice": {
-                        "primaryLine": {
-                            "accessibilityLabel": "$54 per night",
-                            "displayComponentType": "QUALIFIED_DISPLAY_PRICE_LINE",
-                            "concatQualifierLeft": false,
-                            "price": "$54",
-                            "qualifier": "night before taxes",
-                            "trailingContent": null,
-                            "shortQualifier": "night"
-                        },
-                        "secondaryLine": null,
-                        "explanationData": {
-                            "title": "Price details",
-                            "priceDetails": [
-                                {
-                                    "items": [
-                                        {
-                                            "description": "$40 x 5 nights",
-                                            "priceString": "$202"
-                                        },
-                                        {
-                                            "description": "Airbnb service fee",
-                                            "priceString": "$40"
-                                        },
-                                        {
-                                            "description": "Taxes",
-                                            "priceString": "$24"
-                                        }
-                                    ],
-                                    "displayComponentType": "DISPLAY_PRICE_EXPLANATION_LINE_GROUP",
-                                    "shouldRenderTopBorder": false
-                                },
-                                {
-                                    "items": [
-                                        {
-                                            "description": "Total",
-                                            "priceString": "$266",
-                                            "originalPriceString": null,
-                                            "accessibilityLabel": "$266 total before taxes"
-                                        }
-                                    ],
-                                    "displayComponentType": null,
-                                    "shouldRenderTopBorder": true
-                                }
-                            ]
-                        },
-                        "explanationDataDisplayPosition": "PRIMARY_LINE"
-                    }
-                },
-                "listingParamOverrides": {
-                    "adults": 1,
-                    "children": 0,
-                    "infants": 0,
-                    "checkin": "2025-03-27",
-                    "checkout": "2025-04-01",
-                    "causeId": null,
-                    "relaxedAmenityIds": null,
-                    "categoryTag": "Tag:8678",
-                    "pets": 0,
-                    "splitStaysUuid": null,
-                    "highlightType": null,
-                    "enableM3PrivateRoom": true
+      "nextPageCursor": "eyJzZWN0aW9uX29mZnNldCI6MywiaXRlbXNfb2Zmc2V0IjoxNiwidmVyc2lvbiI6MX0=",
+      "list": [
+        {
+          "id": "47568883",
+          "photoId": null,
+          "listing": {
+            "id": "47568883",
+            "title": "Villa in Lucknow",
+            "titleLocale": "en",
+            "name": "Nahil's | Safe Villa | Non-Shared |Caretaker-24hr",
+            "localizedCityName": "Lucknow",
+            "city": "Lucknow",
+            "avgRatingLocalized": "4.94 (187)",
+            "avgRatingA11yLabel": "4.94 out of 5 average rating,  187 reviews",
+            "contextualPictures": [
+              {
+                "id": "1619774068",
+                "picture": "https://a0.muscache.com/im/pictures/62d40c6e-f0e0-4ca6-a654-5dbb83fd5725.jpg?im_w=720",
+                "caption": null
+              },
+              {
+                "id": "1379025469",
+                "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-47568883/original/5d7c1e11-c1c5-4420-8da7-1bceea0790c6.jpeg?im_w=720",
+                "caption": {
+                  "kickerBadge": null,
+                  "messages": [
+                    "3 beds",
+                    "2 bedrooms"
+                  ],
+                  "textColor": null,
+                  "formattedMessages": null
                 }
+              },
+              {
+                "id": "1428345695",
+                "picture": "https://a0.muscache.com/im/pictures/8101b3d0-1f28-42f0-b42c-92f0bdbb84ee.jpg?im_w=720",
+                "caption": {
+                  "kickerBadge": null,
+                  "messages": [
+                    "2 baths"
+                  ],
+                  "textColor": null,
+                  "formattedMessages": null
+                }
+              },
+              {
+                "id": "1621318473",
+                "picture": "https://a0.muscache.com/im/pictures/de20eaf2-0370-48b1-9a73-df9e02791af3.jpg?im_w=720",
+                "caption": {
+                  "kickerBadge": null,
+                  "messages": [
+                    "2 king beds",
+                    "1 sofa bed"
+                  ],
+                  "textColor": null,
+                  "formattedMessages": null
+                }
+              },
+              {
+                "id": "1620506558",
+                "picture": "https://a0.muscache.com/im/pictures/3191e68b-30b4-4b12-a5bc-eff4983421f2.jpg?im_w=720",
+                "caption": {
+                  "kickerBadge": null,
+                  "messages": [
+                    "Wifi",
+                    "Self check-in",
+                    "Kitchen",
+                    "Free parking"
+                  ],
+                  "textColor": null,
+                  "formattedMessages": null
+                }
+              },
+              {
+                "id": "1619884486",
+                "picture": "https://a0.muscache.com/im/pictures/307fb2a4-fa2f-4f97-8450-a6384a2a2302.jpg?im_w=720",
+                "caption": {
+                  "kickerBadge": null,
+                  "messages": [
+                    "Rated 4.8 out of 5 for cleanliness"
+                  ],
+                  "textColor": null,
+                  "formattedMessages": null
+                }
+              }
+            ],
+            "coordinate": {
+              "longitude": 80.988762,
+              "latitude": 26.883795
             },
-            {
-                "listing": {
-                    "avgRatingLocalized": "4.97 (283)",
-                    "avgRatingA11yLabel": "4.97 out of 5 average rating,  283 reviews",
-                    "city": "Mumbai",
-                    "contextualPictures": [
-                        {
-                            "id": "1631643002",
-                            "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-33143551/original/2ae34b82-5b72-435a-af81-1701d046d89e.jpeg?im_w=720",
-                            "caption": null
-                        },
-                        {
-                            "id": "1631644104",
-                            "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-33143551/original/bb1ab6cb-1d39-4591-b0b2-eb324172d5d1.jpeg?im_w=720",
-                            "caption": {
-                                "kickerBadge": null,
-                                "messages": [
-                                    "1 bed",
-                                    "1 bedroom"
-                                ],
-                                "textColor": null,
-                                "formattedMessages": null
-                            }
-                        },
-                        {
-                            "id": "1631644169",
-                            "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-33143551/original/2f002da6-bfc2-424c-bcf6-49a717536afe.jpeg?im_w=720",
-                            "caption": {
-                                "kickerBadge": null,
-                                "messages": [
-                                    "1 private bathroom"
-                                ],
-                                "textColor": null,
-                                "formattedMessages": null
-                            }
-                        },
-                        {
-                            "id": "1631644352",
-                            "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-33143551/original/f79e0801-9890-4536-9299-8868120bfdb1.jpeg?im_w=720",
-                            "caption": {
-                                "kickerBadge": null,
-                                "messages": [
-                                    "1 queen bed"
-                                ],
-                                "textColor": null,
-                                "formattedMessages": null
-                            }
-                        },
-                        {
-                            "id": "1631644601",
-                            "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-33143551/original/02980c16-2b62-4389-ae5f-1e68f885e945.jpeg?im_w=720",
-                            "caption": {
-                                "kickerBadge": null,
-                                "messages": [
-                                    "Rated 5 out of 5 for cleanliness"
-                                ],
-                                "textColor": null,
-                                "formattedMessages": null
-                            }
-                        },
-                        {
-                            "id": "1763327438",
-                            "picture": "https://a0.muscache.com/im/pictures/09bcab27-4e07-42f3-a266-ba9716dec1aa.jpg?im_w=720",
-                            "caption": null
-                        },
-                        {
-                            "id": "1631644443",
-                            "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-33143551/original/5b3f3811-427d-4b9c-b9b4-5b0a34b85135.jpeg?im_w=720",
-                            "caption": null
-                        },
-                        {
-                            "id": "1763327686",
-                            "picture": "https://a0.muscache.com/im/pictures/502d2a41-0709-40d5-8a6f-7dd8e682a4d6.jpg?im_w=720",
-                            "caption": null
-                        },
-                        {
-                            "id": "1631644860",
-                            "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-33143551/original/eefd29b0-1586-418a-bfa3-56f1fa499223.jpeg?im_w=720",
-                            "caption": null
-                        },
-                        {
-                            "id": "1631645356",
-                            "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-33143551/original/8f6c3ad4-5538-4229-97e7-869fd8687482.jpeg?im_w=720",
-                            "caption": null
-                        },
-                        {
-                            "id": "1848963943",
-                            "picture": "https://a0.muscache.com/im/pictures/hosting/Hosting-33143551/original/c8accd4b-56ee-4824-bcc3-1629d9a94001.jpeg?im_w=720",
-                            "caption": null
-                        },
-                        {
-                            "id": "1850945370",
-                            "picture": "https://a0.muscache.com/im/pictures/hosting/Hosting-33143551/original/72ebf3bf-1203-4c97-946c-8ee57a54e210.jpeg?im_w=720",
-                            "caption": null
-                        },
-                        {
-                            "id": "1850945362",
-                            "picture": "https://a0.muscache.com/im/pictures/hosting/Hosting-33143551/original/8fcdf1d8-2fb2-4265-be55-a71169ccfd8d.jpeg?im_w=720",
-                            "caption": null
-                        },
-                        {
-                            "id": "1631645220",
-                            "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-33143551/original/01220a5b-271f-403e-adc9-ddc9decde252.jpeg?im_w=720",
-                            "caption": null
-                        },
-                        {
-                            "id": "1631645392",
-                            "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-33143551/original/67abaf7b-dda0-47cc-bda6-735e5c8587ff.jpeg?im_w=720",
-                            "caption": null
-                        },
-                        {
-                            "id": "1756692505",
-                            "picture": "https://a0.muscache.com/im/pictures/5a8f15e3-e6c1-4c6e-b2b1-d3e73368c3d9.jpg?im_w=720",
-                            "caption": null
-                        },
-                        {
-                            "id": "1763821112",
-                            "picture": "https://a0.muscache.com/im/pictures/a0d3804a-32b1-4ef7-8282-f59b5602de5a.jpg?im_w=720",
-                            "caption": null
-                        },
-                        {
-                            "id": "1648946393",
-                            "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-33143551/original/03836552-ee86-470e-a47b-903a9f0b8072.jpeg?im_w=720",
-                            "caption": null
-                        },
-                        {
-                            "id": "1631645475",
-                            "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-33143551/original/4c56bf31-1165-4721-a6a2-062df8ec68bf.jpeg?im_w=720",
-                            "caption": null
-                        },
-                        {
-                            "id": "1705398129",
-                            "picture": "https://a0.muscache.com/im/pictures/4bdd89a6-76a3-4b80-b949-dfd4bd4a6e5c.jpg?im_w=720",
-                            "caption": null
-                        }
-                    ],
-                    "contextualPicturesCount": 20,
-                    "contextualPicturesPageInfo": null,
-                    "coordinate": {
-                        "longitude": 72.82785,
-                        "latitude": 19.05816
-                    },
-                    "formattedBadges": [
-                        {
-                            "textColor": "#222222",
-                            "text": "Guest favourite",
-                            "borderColor": "rgba(0, 0, 0, 0.2)",
-                            "backgroundColor": "rgba(255, 255, 255, 0.95)"
-                        }
-                    ],
-                    "id": "33143551",
-                    "isAutoTranslated": false,
-                    "listingObjType": "REGULAR",
-                    "localizedCityName": "Mumbai",
-                    "name": "The White Room in Bandra West",
-                    "primaryHostPassport": {
-                        "isSuperhost": true,
-                        "isVerified": true,
-                        "name": "Conrad",
-                        "profilePictureUrl": null,
-                        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/User-249551291/original/daa22155-1ce0-4351-a27a-cd80d9835a12.jpeg?aki_policy=profile_small",
-                        "stats": [
-                            {
-                                "type": "REVIEW_COUNT",
-                                "a11yValue": "283 reviews on the listing",
-                                "label": "Reviews",
-                                "value": "283"
-                            },
-                            {
-                                "type": "RATING",
-                                "a11yValue": "4.97 out of 5 average rating on the listing",
-                                "label": "Rating",
-                                "value": "4.97"
-                            },
-                            {
-                                "type": "YEARS_HOSTING",
-                                "a11yValue": "6 years of hosting",
-                                "label": "Years hosting",
-                                "value": "6"
-                            }
-                        ],
-                        "titleText": "Superhost",
-                        "userId": "249551291"
-                    },
-                    "pdpType": "MARKETPLACE",
-                    "roomTypeCategory": "private_room",
-                    "roomTypeId": null,
-                    "structuredContent": {
-                        "primaryLine": null,
-                        "secondaryLine": [
-                            {
-                                "type": null,
-                                "headline": null,
-                                "body": "5 nights",
-                                "bodyType": null,
-                                "bodyA11yLabel": null,
-                                "fontWeight": null
-                            },
-                            {
-                                "type": null,
-                                "headline": null,
-                                "body": "16–21 Mar",
-                                "bodyType": null,
-                                "bodyA11yLabel": null,
-                                "fontWeight": null
-                            }
-                        ],
-                        "mapPrimaryLine": null,
-                        "mapSecondaryLine": [
-                            {
-                                "type": null,
-                                "headline": null,
-                                "body": "5 nights",
-                                "bodyType": null,
-                                "bodyA11yLabel": null,
-                                "fontWeight": null
-                            },
-                            {
-                                "type": null,
-                                "headline": null,
-                                "body": "16–21 Mar",
-                                "bodyType": null,
-                                "bodyA11yLabel": null,
-                                "fontWeight": null
-                            }
-                        ],
-                        "mapCategoryInfo": null,
-                        "distance": [
-                            {
-                                "type": "LISTING_PRIVATE_ROOM_SUITE_HIGHLIGHT",
-                                "headline": null,
-                                "body": "Stay with Conrad",
-                                "bodyType": null,
-                                "bodyA11yLabel": null,
-                                "fontWeight": null
-                            },
-                            {
-                                "type": "LISTING_PRIVATE_ROOM_SUITE_HIGHLIGHT",
-                                "headline": null,
-                                "body": "Hosting for 6 years",
-                                "bodyType": null,
-                                "bodyA11yLabel": null,
-                                "fontWeight": null
-                            }
-                        ]
-                    },
-                    "tierId": 0,
-                    "title": "Room in Bandra - Khar",
-                    "titleLocale": "en",
-                    "webURL": "https://www.airbnb.com/rooms/33143551?guests=1&adults=1"
-                },
-                "pricingQuote": {
-                    "structuredStayDisplayPrice": {
-                        "primaryLine": {
-                            "accessibilityLabel": "$49 per night",
-                            "displayComponentType": "QUALIFIED_DISPLAY_PRICE_LINE",
-                            "concatQualifierLeft": false,
-                            "price": "$49",
-                            "qualifier": "night before taxes",
-                            "trailingContent": null,
-                            "shortQualifier": "night"
-                        },
-                        "secondaryLine": null,
-                        "explanationData": {
-                            "title": "Price details",
-                            "priceDetails": [
-                                {
-                                    "items": [
-                                        {
-                                            "description": "$36 x 5 nights",
-                                            "priceString": "$179"
-                                        },
-                                        {
-                                            "description": "Cleaning fee",
-                                            "priceString": "$5"
-                                        },
-                                        {
-                                            "description": "Airbnb service fee",
-                                            "priceString": "$36"
-                                        },
-                                        {
-                                            "description": "Taxes",
-                                            "priceString": "$22"
-                                        }
-                                    ],
-                                    "displayComponentType": "DISPLAY_PRICE_EXPLANATION_LINE_GROUP",
-                                    "shouldRenderTopBorder": false
-                                },
-                                {
-                                    "items": [
-                                        {
-                                            "description": "Total",
-                                            "priceString": "$242",
-                                            "originalPriceString": null,
-                                            "accessibilityLabel": "$242 total before taxes"
-                                        }
-                                    ],
-                                    "displayComponentType": null,
-                                    "shouldRenderTopBorder": true
-                                }
-                            ]
-                        },
-                        "explanationDataDisplayPosition": "PRIMARY_LINE"
-                    }
-                },
-                "listingParamOverrides": {
-                    "adults": 1,
-                    "children": 0,
-                    "infants": 0,
-                    "checkin": "2025-03-16",
-                    "checkout": "2025-03-21",
-                    "causeId": null,
-                    "relaxedAmenityIds": null,
-                    "categoryTag": "Tag:8678",
-                    "pets": 0,
-                    "splitStaysUuid": null,
-                    "highlightType": null,
-                    "enableM3PrivateRoom": true
+            "formattedBadges": [
+              {
+                "text": "Guest favorite",
+                "textColor": "#000000",
+                "style": "LOUD_ROUNDED_PILL",
+                "loggingContext": {
+                  "badgeType": "GUEST_FAVORITE"
                 }
+              }
+            ],
+            "isAutoTranslated": false,
+            "listingObjType": "REGULAR",
+            "primaryHostPassport": null,
+            "pdpType": "MARKETPLACE",
+            "roomTypeCategory": "entire_home",
+            "roomTypeId": null,
+            "structuredContent": {
+              "primaryLine": [
+                {
+                  "type": null,
+                  "headline": null,
+                  "body": "3 beds",
+                  "bodyType": null,
+                  "bodyA11yLabel": null,
+                  "fontWeight": null
+                }
+              ],
+              "secondaryLine": [
+                {
+                  "type": null,
+                  "headline": null,
+                  "body": "Feb 1 – 6",
+                  "bodyType": null,
+                  "bodyA11yLabel": null,
+                  "fontWeight": null
+                }
+              ],
+              "mapPrimaryLine": null,
+              "mapSecondaryLine": [
+                {
+                  "type": null,
+                  "headline": null,
+                  "body": "Feb 1 – 6",
+                  "bodyType": null,
+                  "bodyA11yLabel": null,
+                  "fontWeight": null
+                }
+              ],
+              "mapCategoryInfo": null,
+              "distance": null
+            },
+            "tierId": 0
+          },
+          "pricingQuote": {
+            "structuredStayDisplayPrice": {
+              "primaryLine": {
+                "accessibilityLabel": "$51 per night, originally $57",
+                "displayComponentType": "DISCOUNTED_DISPLAY_PRICE_LINE",
+                "concatQualifierLeft": false,
+                "discountedPrice": "$51",
+                "originalPrice": "$57",
+                "qualifier": "night",
+                "trailingContent": null,
+                "shortQualifier": "night"
+              },
+              "secondaryLine": null,
+              "explanationData": null,
+              "explanationDataDisplayPosition": "SECONDARY_LINE"
             }
-        ],
-        "nextPageCursor": "eyJzZWN0aW9uX29mZnNldCI6MiwiaXRlbXNfb2Zmc2V0IjoyLCJ2ZXJzaW9uIjoxfQ=="
+          },
+          "listingParamOverrides": {
+            "adults": 1,
+            "children": 0,
+            "infants": 0,
+            "checkin": "2024-02-01",
+            "checkout": "2024-02-06",
+            "causeId": null,
+            "relaxedAmenityIds": null,
+            "categoryTag": null,
+            "pets": 0,
+            "splitStaysUuid": null,
+            "highlightType": null,
+            "photoId": null
+          }
+        },
+        
+        {
+          "id": "747035719183979447",
+          "photoId": null,
+          "listing": {
+            "id": "747035719183979447",
+            "title": "Condo in Lucknow",
+            "titleLocale": "en",
+            "name": "The Nest | Masai | High Rise & City View",
+            "localizedCityName": "Lucknow",
+            "city": "Lucknow",
+            "avgRatingLocalized": "4.67 (57)",
+            "avgRatingA11yLabel": "4.67 out of 5 average rating,  57 reviews",
+            "contextualPictures": [
+              {
+                "id": "1516000750",
+                "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-747035719183979447/original/3e036818-3890-4fa9-a9e0-bc69be9197b2.jpeg?im_w=720",
+                "caption": null
+              },
+              {
+                "id": "1516000634",
+                "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-747035719183979447/original/21121d84-a131-4742-b364-13329983eb5c.jpeg?im_w=720",
+                "caption": {
+                  "kickerBadge": null,
+                  "messages": [
+                    "2 beds",
+                    "1 bedroom"
+                  ],
+                  "textColor": null,
+                  "formattedMessages": null
+                }
+              },
+              {
+                "id": "1516000697",
+                "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-747035719183979447/original/f82d01ec-ba41-4fad-bd3a-fd460c90381e.jpeg?im_w=720",
+                "caption": {
+                  "kickerBadge": null,
+                  "messages": [
+                    "1 bath"
+                  ],
+                  "textColor": null,
+                  "formattedMessages": null
+                }
+              },
+              {
+                "id": "1516000699",
+                "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-747035719183979447/original/22ed277c-e792-4719-b85f-7d8a11759f87.jpeg?im_w=720",
+                "caption": {
+                  "kickerBadge": null,
+                  "messages": [
+                    "1 king bed",
+                    "1 sofa bed"
+                  ],
+                  "textColor": null,
+                  "formattedMessages": null
+                }
+              },
+              {
+                "id": "1516000632",
+                "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-747035719183979447/original/eb8a48b6-0a9e-4352-82a4-6ade3fa8c764.jpeg?im_w=720",
+                "caption": {
+                  "kickerBadge": null,
+                  "messages": [
+                    "Wifi",
+                    "Self check-in",
+                    "Kitchen",
+                    "Free parking"
+                  ],
+                  "textColor": null,
+                  "formattedMessages": null
+                }
+              },
+              {
+                "id": "1516000609",
+                "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-747035719183979447/original/2ea30ea5-d4da-419a-b8aa-283a4c2c3841.jpeg?im_w=720",
+                "caption": {
+                  "kickerBadge": null,
+                  "messages": [
+                    "Rated 4.6 out of 5 for cleanliness"
+                  ],
+                  "textColor": null,
+                  "formattedMessages": null
+                }
+              }
+            ],
+            "coordinate": {
+              "longitude": 81.00585,
+              "latitude": 26.86673
+            },
+            "formattedBadges": [],
+            "isAutoTranslated": false,
+            "listingObjType": "REGULAR",
+            "primaryHostPassport": null,
+            "pdpType": "MARKETPLACE",
+            "roomTypeCategory": "entire_home",
+            "roomTypeId": null,
+            "structuredContent": {
+              "primaryLine": [
+                {
+                  "type": null,
+                  "headline": null,
+                  "body": "2 beds",
+                  "bodyType": null,
+                  "bodyA11yLabel": null,
+                  "fontWeight": null
+                }
+              ],
+              "secondaryLine": [
+                {
+                  "type": null,
+                  "headline": null,
+                  "body": "Feb 12 – 17",
+                  "bodyType": null,
+                  "bodyA11yLabel": null,
+                  "fontWeight": null
+                }
+              ],
+              "mapPrimaryLine": null,
+              "mapSecondaryLine": [
+                {
+                  "type": null,
+                  "headline": null,
+                  "body": "Feb 12 – 17",
+                  "bodyType": null,
+                  "bodyA11yLabel": null,
+                  "fontWeight": null
+                }
+              ],
+              "mapCategoryInfo": null,
+              "distance": null
+            },
+            "tierId": 0
+          },
+          "pricingQuote": {
+            "structuredStayDisplayPrice": {
+              "primaryLine": {
+                "accessibilityLabel": "$35 per night",
+                "displayComponentType": "QUALIFIED_DISPLAY_PRICE_LINE",
+                "concatQualifierLeft": false,
+                "price": "$35",
+                "qualifier": "night",
+                "trailingContent": null,
+                "shortQualifier": "night"
+              },
+              "secondaryLine": null,
+              "explanationData": null,
+              "explanationDataDisplayPosition": "SECONDARY_LINE"
+            }
+          },
+          "listingParamOverrides": {
+            "adults": 1,
+            "children": 0,
+            "infants": 0,
+            "checkin": "2024-02-12",
+            "checkout": "2024-02-17",
+            "causeId": null,
+            "relaxedAmenityIds": null,
+            "categoryTag": null,
+            "pets": 0,
+            "splitStaysUuid": null,
+            "highlightType": null,
+            "photoId": null
+          }
+        },
+        {
+          "id": "1060166819033845433",
+          "photoId": null,
+          "listing": {
+            "id": "1060166819033845433",
+            "title": "Home in Lucknow",
+            "titleLocale": "en",
+            "name": "Cherry Homestay: luxury 3k sq ft 3BHK terrace",
+            "localizedCityName": "Lucknow",
+            "city": "Lucknow",
+            "avgRatingLocalized": "5.0 (3)",
+            "avgRatingA11yLabel": "5.0 out of 5 average rating,  3 reviews",
+            "contextualPictures": [
+              {
+                "id": "1821686037",
+                "picture": "https://a0.muscache.com/im/pictures/hosting/Hosting-1060166819033845433/original/7111880b-e0e8-41bd-9440-d102966d2834.jpeg?im_w=720",
+                "caption": null
+              },
+              {
+                "id": "1821686048",
+                "picture": "https://a0.muscache.com/im/pictures/hosting/Hosting-1060166819033845433/original/0a51921e-061e-407a-8b5e-08384d05616f.jpeg?im_w=720",
+                "caption": {
+                  "kickerBadge": null,
+                  "messages": [
+                    "3 beds",
+                    "3 bedrooms"
+                  ],
+                  "textColor": null,
+                  "formattedMessages": null
+                }
+              },
+              {
+                "id": "1821687714",
+                "picture": "https://a0.muscache.com/im/pictures/hosting/Hosting-1060166819033845433/original/af2c206c-9e57-4921-96b4-250a618fe65d.jpeg?im_w=720",
+                "caption": {
+                  "kickerBadge": null,
+                  "messages": [
+                    "3 baths"
+                  ],
+                  "textColor": null,
+                  "formattedMessages": null
+                }
+              },
+              {
+                "id": "1821687776",
+                "picture": "https://a0.muscache.com/im/pictures/hosting/Hosting-1060166819033845433/original/8119bb60-c897-47dd-a869-209830d24c2f.jpeg?im_w=720",
+                "caption": {
+                  "kickerBadge": null,
+                  "messages": [
+                    "3 king beds"
+                  ],
+                  "textColor": null,
+                  "formattedMessages": null
+                }
+              },
+              {
+                "id": "1821687794",
+                "picture": "https://a0.muscache.com/im/pictures/hosting/Hosting-1060166819033845433/original/7acf61a5-bef3-4a32-81a5-6d74be63031b.jpeg?im_w=720",
+                "caption": {
+                  "kickerBadge": null,
+                  "messages": [
+                    "Wifi",
+                    "Kitchen",
+                    "Free parking"
+                  ],
+                  "textColor": null,
+                  "formattedMessages": null
+                }
+              },
+              {
+                "id": "1821687809",
+                "picture": "https://a0.muscache.com/im/pictures/hosting/Hosting-1060166819033845433/original/49ea0e98-93e1-48a6-b911-80381e418e9e.jpeg?im_w=720",
+                "caption": {
+                  "kickerBadge": null,
+                  "messages": [
+                    "Rated 5 out of 5 for cleanliness"
+                  ],
+                  "textColor": null,
+                  "formattedMessages": null
+                }
+              }
+            ],
+            "coordinate": {
+              "longitude": 80.9967764,
+              "latitude": 26.8495019
+            },
+            "formattedBadges": [],
+            "isAutoTranslated": false,
+            "listingObjType": "REGULAR",
+            "primaryHostPassport": null,
+            "pdpType": "MARKETPLACE",
+            "roomTypeCategory": "entire_home",
+            "roomTypeId": null,
+            "structuredContent": {
+              "primaryLine": [
+                {
+                  "type": null,
+                  "headline": null,
+                  "body": "3 king beds",
+                  "bodyType": null,
+                  "bodyA11yLabel": null,
+                  "fontWeight": null
+                }
+              ],
+              "secondaryLine": [
+                {
+                  "type": null,
+                  "headline": null,
+                  "body": "Feb 3 – 8",
+                  "bodyType": null,
+                  "bodyA11yLabel": null,
+                  "fontWeight": null
+                }
+              ],
+              "mapPrimaryLine": null,
+              "mapSecondaryLine": [
+                {
+                  "type": null,
+                  "headline": null,
+                  "body": "Feb 3 – 8",
+                  "bodyType": null,
+                  "bodyA11yLabel": null,
+                  "fontWeight": null
+                }
+              ],
+              "mapCategoryInfo": null,
+              "distance": null
+            },
+            "tierId": 0
+          },
+          "pricingQuote": {
+            "structuredStayDisplayPrice": {
+              "primaryLine": {
+                "accessibilityLabel": "$49 per night, originally $54",
+                "displayComponentType": "DISCOUNTED_DISPLAY_PRICE_LINE",
+                "concatQualifierLeft": false,
+                "discountedPrice": "$49",
+                "originalPrice": "$54",
+                "qualifier": "night",
+                "trailingContent": null,
+                "shortQualifier": "night"
+              },
+              "secondaryLine": null,
+              "explanationData": null,
+              "explanationDataDisplayPosition": "SECONDARY_LINE"
+            }
+          },
+          "listingParamOverrides": {
+            "adults": 1,
+            "children": 0,
+            "infants": 0,
+            "checkin": "2024-02-03",
+            "checkout": "2024-02-08",
+            "causeId": null,
+            "relaxedAmenityIds": null,
+            "categoryTag": null,
+            "pets": 0,
+            "splitStaysUuid": null,
+            "highlightType": null,
+            "photoId": null
+          }
+        },
+        {
+          "id": "782752353790976768",
+          "photoId": null,
+          "listing": {
+            "id": "782752353790976768",
+            "title": "Apartment in Lucknow",
+            "titleLocale": "en",
+            "name": "Jasmine: Private flat within a bungalow.",
+            "localizedCityName": "Lucknow",
+            "city": "Lucknow",
+            "avgRatingLocalized": "4.9 (89)",
+            "avgRatingA11yLabel": "4.9 out of 5 average rating,  89 reviews",
+            "contextualPictures": [
+              {
+                "id": "1552120706",
+                "picture": "https://a0.muscache.com/im/pictures/2ec4e296-aff2-456e-b50c-0b806aae054a.jpg?im_w=720",
+                "caption": null
+              },
+              {
+                "id": "1552120665",
+                "picture": "https://a0.muscache.com/im/pictures/82945520-63ce-4e95-9248-fc021a745051.jpg?im_w=720",
+                "caption": {
+                  "kickerBadge": null,
+                  "messages": [
+                    "2 beds",
+                    "2 bedrooms"
+                  ],
+                  "textColor": null,
+                  "formattedMessages": null
+                }
+              },
+              {
+                "id": "1552120631",
+                "picture": "https://a0.muscache.com/im/pictures/a7feb061-6a0d-469f-ae9c-4e82b1862c75.jpg?im_w=720",
+                "caption": {
+                  "kickerBadge": null,
+                  "messages": [
+                    "2 baths"
+                  ],
+                  "textColor": null,
+                  "formattedMessages": null
+                }
+              },
+              {
+                "id": "1547215971",
+                "picture": "https://a0.muscache.com/im/pictures/b29a8bf8-3c6f-4898-9bfc-ca012b476008.jpg?im_w=720",
+                "caption": {
+                  "kickerBadge": null,
+                  "messages": [
+                    "2 double beds"
+                  ],
+                  "textColor": null,
+                  "formattedMessages": null
+                }
+              },
+              {
+                "id": "1547215889",
+                "picture": "https://a0.muscache.com/im/pictures/c25cacdb-d22c-4ac4-b507-b06dde10c75b.jpg?im_w=720",
+                "caption": {
+                  "kickerBadge": null,
+                  "messages": [
+                    "Wifi",
+                    "Kitchen",
+                    "Free parking"
+                  ],
+                  "textColor": null,
+                  "formattedMessages": null
+                }
+              },
+              {
+                "id": "1547215828",
+                "picture": "https://a0.muscache.com/im/pictures/61983d23-3c50-4bda-842d-eabfe1a5b27b.jpg?im_w=720",
+                "caption": {
+                  "kickerBadge": null,
+                  "messages": [
+                    "Rated 4.9 out of 5 for cleanliness"
+                  ],
+                  "textColor": null,
+                  "formattedMessages": null
+                }
+              }
+            ],
+            "coordinate": {
+              "longitude": 81.0317,
+              "latitude": 26.89285
+            },
+            "formattedBadges": [
+              {
+                "text": "Guest favorite",
+                "textColor": "#000000",
+                "style": "LOUD_ROUNDED_PILL",
+                "loggingContext": {
+                  "badgeType": "GUEST_FAVORITE"
+                }
+              }
+            ],
+            "isAutoTranslated": false,
+            "listingObjType": "REGULAR",
+            "primaryHostPassport": null,
+            "pdpType": "MARKETPLACE",
+            "roomTypeCategory": "entire_home",
+            "roomTypeId": null,
+            "structuredContent": {
+              "primaryLine": [
+                {
+                  "type": null,
+                  "headline": null,
+                  "body": "2 double beds",
+                  "bodyType": null,
+                  "bodyA11yLabel": null,
+                  "fontWeight": null
+                }
+              ],
+              "secondaryLine": [
+                {
+                  "type": null,
+                  "headline": null,
+                  "body": "Feb 1 – 6",
+                  "bodyType": null,
+                  "bodyA11yLabel": null,
+                  "fontWeight": null
+                }
+              ],
+              "mapPrimaryLine": null,
+              "mapSecondaryLine": [
+                {
+                  "type": null,
+                  "headline": null,
+                  "body": "Feb 1 – 6",
+                  "bodyType": null,
+                  "bodyA11yLabel": null,
+                  "fontWeight": null
+                }
+              ],
+              "mapCategoryInfo": null,
+              "distance": null
+            },
+            "tierId": 0
+          },
+          "pricingQuote": {
+            "structuredStayDisplayPrice": {
+              "primaryLine": {
+                "accessibilityLabel": "$18 per night",
+                "displayComponentType": "QUALIFIED_DISPLAY_PRICE_LINE",
+                "concatQualifierLeft": false,
+                "price": "$18",
+                "qualifier": "night",
+                "trailingContent": null,
+                "shortQualifier": "night"
+              },
+              "secondaryLine": null,
+              "explanationData": null,
+              "explanationDataDisplayPosition": "SECONDARY_LINE"
+            }
+          },
+          "listingParamOverrides": {
+            "adults": 1,
+            "children": 0,
+            "infants": 0,
+            "checkin": "2024-02-01",
+            "checkout": "2024-02-06",
+            "causeId": null,
+            "relaxedAmenityIds": null,
+            "categoryTag": null,
+            "pets": 0,
+            "splitStaysUuid": null,
+            "highlightType": null,
+            "photoId": null
+          }
+        },
+        {
+          "id": "990496673335980697",
+          "photoId": null,
+          "listing": {
+            "id": "990496673335980697",
+            "title": "Apartment in Lucknow",
+            "titleLocale": "en",
+            "name": "The Goldenfinch, welcomes you",
+            "localizedCityName": "Lucknow",
+            "city": "Lucknow",
+            "avgRatingLocalized": "5.0 (8)",
+            "avgRatingA11yLabel": "5.0 out of 5 average rating,  8 reviews",
+            "contextualPictures": [
+              {
+                "id": "1762690427",
+                "picture": "https://a0.muscache.com/im/pictures/936aa15a-630b-452f-952b-25410f11d0a0.jpg?im_w=720",
+                "caption": null
+              },
+              {
+                "id": "1762684347",
+                "picture": "https://a0.muscache.com/im/pictures/c928bf20-213c-41c2-8cf4-b3f642fd0dd8.jpg?im_w=720",
+                "caption": {
+                  "kickerBadge": null,
+                  "messages": [
+                    "1 bed",
+                    "1 bedroom"
+                  ],
+                  "textColor": null,
+                  "formattedMessages": null
+                }
+              },
+              {
+                "id": "1761846305",
+                "picture": "https://a0.muscache.com/im/pictures/d56b19d3-7a2a-4f7c-9b5e-3bc6e9077823.jpg?im_w=720",
+                "caption": {
+                  "kickerBadge": null,
+                  "messages": [
+                    "1.5 baths"
+                  ],
+                  "textColor": null,
+                  "formattedMessages": null
+                }
+              },
+              {
+                "id": "1749846645",
+                "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-990496673335980697/original/e98958e9-7b24-468f-9687-85e36b7f5bcf.jpeg?im_w=720",
+                "caption": {
+                  "kickerBadge": null,
+                  "messages": [
+                    "1 king bed"
+                  ],
+                  "textColor": null,
+                  "formattedMessages": null
+                }
+              },
+              {
+                "id": "1762681151",
+                "picture": "https://a0.muscache.com/im/pictures/c03502e3-1771-422c-8b5a-f1ab5734177a.jpg?im_w=720",
+                "caption": {
+                  "kickerBadge": null,
+                  "messages": [
+                    "Wifi",
+                    "Kitchen",
+                    "Free parking"
+                  ],
+                  "textColor": null,
+                  "formattedMessages": null
+                }
+              },
+              {
+                "id": "1762680954",
+                "picture": "https://a0.muscache.com/im/pictures/4bd69f6e-3052-4384-931f-6a01e9eeb767.jpg?im_w=720",
+                "caption": {
+                  "kickerBadge": null,
+                  "messages": [
+                    "Rated 5 out of 5 for cleanliness"
+                  ],
+                  "textColor": null,
+                  "formattedMessages": null
+                }
+              }
+            ],
+            "coordinate": {
+              "longitude": 81.00585,
+              "latitude": 26.8655
+            },
+            "formattedBadges": [
+              {
+                "text": "Guest favorite",
+                "textColor": "#000000",
+                "style": "LOUD_ROUNDED_PILL",
+                "loggingContext": {
+                  "badgeType": "GUEST_FAVORITE"
+                }
+              }
+            ],
+            "isAutoTranslated": false,
+            "listingObjType": "REGULAR",
+            "primaryHostPassport": null,
+            "pdpType": "MARKETPLACE",
+            "roomTypeCategory": "entire_home",
+            "roomTypeId": null,
+            "structuredContent": {
+              "primaryLine": [
+                {
+                  "type": null,
+                  "headline": null,
+                  "body": "1 king bed",
+                  "bodyType": null,
+                  "bodyA11yLabel": null,
+                  "fontWeight": null
+                }
+              ],
+              "secondaryLine": [
+                {
+                  "type": null,
+                  "headline": null,
+                  "body": "Feb 1 – 6",
+                  "bodyType": null,
+                  "bodyA11yLabel": null,
+                  "fontWeight": null
+                }
+              ],
+              "mapPrimaryLine": null,
+              "mapSecondaryLine": [
+                {
+                  "type": null,
+                  "headline": null,
+                  "body": "Feb 1 – 6",
+                  "bodyType": null,
+                  "bodyA11yLabel": null,
+                  "fontWeight": null
+                }
+              ],
+              "mapCategoryInfo": null,
+              "distance": null
+            },
+            "tierId": 0
+          },
+          "pricingQuote": {
+            "structuredStayDisplayPrice": {
+              "primaryLine": {
+                "accessibilityLabel": "$43 per night, originally $48",
+                "displayComponentType": "DISCOUNTED_DISPLAY_PRICE_LINE",
+                "concatQualifierLeft": false,
+                "discountedPrice": "$43",
+                "originalPrice": "$48",
+                "qualifier": "night",
+                "trailingContent": null,
+                "shortQualifier": "night"
+              },
+              "secondaryLine": null,
+              "explanationData": null,
+              "explanationDataDisplayPosition": "SECONDARY_LINE"
+            }
+          },
+          "listingParamOverrides": {
+            "adults": 1,
+            "children": 0,
+            "infants": 0,
+            "checkin": "2024-02-01",
+            "checkout": "2024-02-06",
+            "causeId": null,
+            "relaxedAmenityIds": null,
+            "categoryTag": null,
+            "pets": 0,
+            "splitStaysUuid": null,
+            "highlightType": null,
+            "photoId": null
+          }
+        },
+        {
+          "id": "35480132",
+          "photoId": null,
+          "listing": {
+            "id": "35480132",
+            "title": "Guest suite in Lucknow",
+            "titleLocale": "en",
+            "name": "Eco-friendly premium home-stay in City of Nawabs",
+            "localizedCityName": "Lucknow",
+            "city": "Lucknow",
+            "avgRatingLocalized": "4.89 (130)",
+            "avgRatingA11yLabel": "4.89 out of 5 average rating,  130 reviews",
+            "contextualPictures": [
+              {
+                "id": "942270673",
+                "picture": "https://a0.muscache.com/im/pictures/a7b34711-4205-482b-aedf-de265211545f.jpg?im_w=720",
+                "caption": null
+              },
+              {
+                "id": "1078521798",
+                "picture": "https://a0.muscache.com/im/pictures/975adc1b-7105-4697-a8f2-397f87ab5d86.jpg?im_w=720",
+                "caption": {
+                  "kickerBadge": null,
+                  "messages": [
+                    "4 beds",
+                    "1 bedroom"
+                  ],
+                  "textColor": null,
+                  "formattedMessages": null
+                }
+              },
+              {
+                "id": "1078424865",
+                "picture": "https://a0.muscache.com/im/pictures/180987be-3ab1-4dd7-974e-67302313e707.jpg?im_w=720",
+                "caption": {
+                  "kickerBadge": null,
+                  "messages": [
+                    "2 baths"
+                  ],
+                  "textColor": null,
+                  "formattedMessages": null
+                }
+              },
+              {
+                "id": "1078528288",
+                "picture": "https://a0.muscache.com/im/pictures/0f95d6cb-e747-415a-b2f2-babeccd22849.jpg?im_w=720",
+                "caption": {
+                  "kickerBadge": null,
+                  "messages": [
+                    "1 double bed",
+                    "1 sofa bed",
+                    "more"
+                  ],
+                  "textColor": null,
+                  "formattedMessages": null
+                }
+              },
+              {
+                "id": "1078424140",
+                "picture": "https://a0.muscache.com/im/pictures/3129cef8-f3e1-495c-a7f6-20239eaf2563.jpg?im_w=720",
+                "caption": {
+                  "kickerBadge": null,
+                  "messages": [
+                    "Self check-in"
+                  ],
+                  "textColor": null,
+                  "formattedMessages": null
+                }
+              },
+              {
+                "id": "1078424715",
+                "picture": "https://a0.muscache.com/im/pictures/3b450b37-083b-4992-85d3-9f3d317c517b.jpg?im_w=720",
+                "caption": {
+                  "kickerBadge": null,
+                  "messages": [
+                    "Rated 5 out of 5 for cleanliness"
+                  ],
+                  "textColor": null,
+                  "formattedMessages": null
+                }
+              }
+            ],
+            "coordinate": {
+              "longitude": 80.98793,
+              "latitude": 26.84677
+            },
+            "formattedBadges": [
+              {
+                "text": "Guest favorite",
+                "textColor": "#000000",
+                "style": "LOUD_ROUNDED_PILL",
+                "loggingContext": {
+                  "badgeType": "GUEST_FAVORITE"
+                }
+              }
+            ],
+            "isAutoTranslated": false,
+            "listingObjType": "REGULAR",
+            "primaryHostPassport": null,
+            "pdpType": "MARKETPLACE",
+            "roomTypeCategory": "entire_home",
+            "roomTypeId": null,
+            "structuredContent": {
+              "primaryLine": [
+                {
+                  "type": null,
+                  "headline": null,
+                  "body": "4 beds",
+                  "bodyType": null,
+                  "bodyA11yLabel": null,
+                  "fontWeight": null
+                }
+              ],
+              "secondaryLine": [
+                {
+                  "type": null,
+                  "headline": null,
+                  "body": "Feb 1 – 6",
+                  "bodyType": null,
+                  "bodyA11yLabel": null,
+                  "fontWeight": null
+                }
+              ],
+              "mapPrimaryLine": null,
+              "mapSecondaryLine": [
+                {
+                  "type": null,
+                  "headline": null,
+                  "body": "Feb 1 – 6",
+                  "bodyType": null,
+                  "bodyA11yLabel": null,
+                  "fontWeight": null
+                }
+              ],
+              "mapCategoryInfo": null,
+              "distance": null
+            },
+            "tierId": 0
+          },
+          "pricingQuote": {
+            "structuredStayDisplayPrice": {
+              "primaryLine": {
+                "accessibilityLabel": "$47 per night",
+                "displayComponentType": "QUALIFIED_DISPLAY_PRICE_LINE",
+                "concatQualifierLeft": false,
+                "price": "$47",
+                "qualifier": "night",
+                "trailingContent": null,
+                "shortQualifier": "night"
+              },
+              "secondaryLine": null,
+              "explanationData": null,
+              "explanationDataDisplayPosition": "SECONDARY_LINE"
+            }
+          },
+          "listingParamOverrides": {
+            "adults": 1,
+            "children": 0,
+            "infants": 0,
+            "checkin": "2024-02-01",
+            "checkout": "2024-02-06",
+            "causeId": null,
+            "relaxedAmenityIds": null,
+            "categoryTag": null,
+            "pets": 0,
+            "splitStaysUuid": null,
+            "highlightType": null,
+            "photoId": null
+          }
+        },
+        {
+          "id": "892400168375168253",
+          "photoId": null,
+          "listing": {
+            "id": "892400168375168253",
+            "title": "Condo in Lucknow",
+            "titleLocale": "en",
+            "name": "Jamboree by Archipixels homes",
+            "localizedCityName": "Lucknow",
+            "city": "Lucknow",
+            "avgRatingLocalized": "4.97 (32)",
+            "avgRatingA11yLabel": "4.97 out of 5 average rating,  32 reviews",
+            "contextualPictures": [
+              {
+                "id": "1678733957",
+                "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-892400168375168253/original/5e7f01d6-43a5-47f6-86c0-12aace48ed38.jpeg?im_w=720",
+                "caption": null
+              },
+              {
+                "id": "1678734519",
+                "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-892400168375168253/original/9b497b9a-7404-4f83-b551-9ec0fef83d29.jpeg?im_w=720",
+                "caption": {
+                  "kickerBadge": null,
+                  "messages": [
+                    "2 beds",
+                    "1 bedroom"
+                  ],
+                  "textColor": null,
+                  "formattedMessages": null
+                }
+              },
+              {
+                "id": "1678734122",
+                "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-892400168375168253/original/2b922147-5e18-4096-adde-d54d63e8a9cd.jpeg?im_w=720",
+                "caption": {
+                  "kickerBadge": null,
+                  "messages": [
+                    "1 bath"
+                  ],
+                  "textColor": null,
+                  "formattedMessages": null
+                }
+              },
+              {
+                "id": "1678733693",
+                "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-892400168375168253/original/76c7abe2-eab7-41b2-9d0f-5201c6d0e00b.jpeg?im_w=720",
+                "caption": {
+                  "kickerBadge": null,
+                  "messages": [
+                    "2 king beds"
+                  ],
+                  "textColor": null,
+                  "formattedMessages": null
+                }
+              },
+              {
+                "id": "1678733996",
+                "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-892400168375168253/original/dde44e50-1c48-4788-b651-d9e5fd3c868d.jpeg?im_w=720",
+                "caption": {
+                  "kickerBadge": null,
+                  "messages": [
+                    "Wifi",
+                    "Self check-in",
+                    "Kitchen",
+                    "Free parking"
+                  ],
+                  "textColor": null,
+                  "formattedMessages": null
+                }
+              },
+              {
+                "id": "1678733083",
+                "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-892400168375168253/original/76992621-603f-4da0-8e59-7a3c037136b8.jpeg?im_w=720",
+                "caption": {
+                  "kickerBadge": null,
+                  "messages": [
+                    "Rated 4.9 out of 5 for cleanliness"
+                  ],
+                  "textColor": null,
+                  "formattedMessages": null
+                }
+              }
+            ],
+            "coordinate": {
+              "longitude": 81.00604,
+              "latitude": 26.867
+            },
+            "formattedBadges": [
+              {
+                "text": "Guest favorite",
+                "textColor": "#000000",
+                "style": "LOUD_ROUNDED_PILL",
+                "loggingContext": {
+                  "badgeType": "GUEST_FAVORITE"
+                }
+              }
+            ],
+            "isAutoTranslated": false,
+            "listingObjType": "REGULAR",
+            "primaryHostPassport": null,
+            "pdpType": "MARKETPLACE",
+            "roomTypeCategory": "entire_home",
+            "roomTypeId": null,
+            "structuredContent": {
+              "primaryLine": [
+                {
+                  "type": null,
+                  "headline": null,
+                  "body": "2 king beds",
+                  "bodyType": null,
+                  "bodyA11yLabel": null,
+                  "fontWeight": null
+                }
+              ],
+              "secondaryLine": [
+                {
+                  "type": null,
+                  "headline": null,
+                  "body": "Feb 12 – 17",
+                  "bodyType": null,
+                  "bodyA11yLabel": null,
+                  "fontWeight": null
+                }
+              ],
+              "mapPrimaryLine": null,
+              "mapSecondaryLine": [
+                {
+                  "type": null,
+                  "headline": null,
+                  "body": "Feb 12 – 17",
+                  "bodyType": null,
+                  "bodyA11yLabel": null,
+                  "fontWeight": null
+                }
+              ],
+              "mapCategoryInfo": null,
+              "distance": null
+            },
+            "tierId": 0
+          },
+          "pricingQuote": {
+            "structuredStayDisplayPrice": {
+              "primaryLine": {
+                "accessibilityLabel": "$41 per night",
+                "displayComponentType": "QUALIFIED_DISPLAY_PRICE_LINE",
+                "concatQualifierLeft": false,
+                "price": "$41",
+                "qualifier": "night",
+                "trailingContent": null,
+                "shortQualifier": "night"
+              },
+              "secondaryLine": null,
+              "explanationData": null,
+              "explanationDataDisplayPosition": "SECONDARY_LINE"
+            }
+          },
+          "listingParamOverrides": {
+            "adults": 1,
+            "children": 0,
+            "infants": 0,
+            "checkin": "2024-02-12",
+            "checkout": "2024-02-17",
+            "causeId": null,
+            "relaxedAmenityIds": null,
+            "categoryTag": null,
+            "pets": 0,
+            "splitStaysUuid": null,
+            "highlightType": null,
+            "photoId": null
+          }
+        },
+        {
+          "id": "1051079320165957996",
+          "photoId": null,
+          "listing": {
+            "id": "1051079320165957996",
+            "title": "Apartment in Lucknow",
+            "titleLocale": "en",
+            "name": "House of Sewa",
+            "localizedCityName": "Lucknow",
+            "city": "Lucknow",
+            "avgRatingLocalized": "5.0 (5)",
+            "avgRatingA11yLabel": "5.0 out of 5 average rating,  5 reviews",
+            "contextualPictures": [
+              {
+                "id": "1805391105",
+                "picture": "https://a0.muscache.com/im/pictures/hosting/Hosting-1051079320165957996/original/401c1bbc-1564-4865-b111-4d41191459dc.jpeg?im_w=720",
+                "caption": null
+              },
+              {
+                "id": "1811829982",
+                "picture": "https://a0.muscache.com/im/pictures/hosting/Hosting-1051079320165957996/original/46563381-2227-4288-8487-bd9f81a588f9.jpeg?im_w=720",
+                "caption": {
+                  "kickerBadge": null,
+                  "messages": [
+                    "2 bedrooms"
+                  ],
+                  "textColor": null,
+                  "formattedMessages": null
+                }
+              },
+              {
+                "id": "1811829983",
+                "picture": "https://a0.muscache.com/im/pictures/hosting/Hosting-1051079320165957996/original/0a8bb1fe-675c-4a84-a51a-924faf8ce27a.jpeg?im_w=720",
+                "caption": {
+                  "kickerBadge": null,
+                  "messages": [
+                    "2 baths"
+                  ],
+                  "textColor": null,
+                  "formattedMessages": null
+                }
+              },
+              {
+                "id": "1811829985",
+                "picture": "https://a0.muscache.com/im/pictures/hosting/Hosting-1051079320165957996/original/5aea92a6-2bbc-4f2d-9bf1-d3d0cafb5e9f.jpeg?im_w=720",
+                "caption": {
+                  "kickerBadge": null,
+                  "messages": [
+                    "Wifi",
+                    "Kitchen",
+                    "Free parking"
+                  ],
+                  "textColor": null,
+                  "formattedMessages": null
+                }
+              },
+              {
+                "id": "1811829988",
+                "picture": "https://a0.muscache.com/im/pictures/hosting/Hosting-1051079320165957996/original/4c3a9fbd-8763-4b58-889a-2c4f67feb80c.jpeg?im_w=720",
+                "caption": {
+                  "kickerBadge": null,
+                  "messages": [
+                    "Rated 5 out of 5 for cleanliness"
+                  ],
+                  "textColor": null,
+                  "formattedMessages": null
+                }
+              },
+              {
+                "id": "1811829996",
+                "picture": "https://a0.muscache.com/im/pictures/hosting/Hosting-1051079320165957996/original/b1629aa0-8501-4b8c-a8a6-138d65f93b29.jpeg?im_w=720",
+                "caption": {
+                  "kickerBadge": null,
+                  "messages": [
+                    "Free cancellation for 48 hours"
+                  ],
+                  "textColor": null,
+                  "formattedMessages": null
+                }
+              }
+            ],
+            "coordinate": {
+              "longitude": 80.9926,
+              "latitude": 26.80466
+            },
+            "formattedBadges": [
+              {
+                "text": "Guest favorite",
+                "textColor": "#000000",
+                "style": "LOUD_ROUNDED_PILL",
+                "loggingContext": {
+                  "badgeType": "GUEST_FAVORITE"
+                }
+              }
+            ],
+            "isAutoTranslated": false,
+            "listingObjType": "REGULAR",
+            "primaryHostPassport": null,
+            "pdpType": "MARKETPLACE",
+            "roomTypeCategory": "entire_home",
+            "roomTypeId": null,
+            "structuredContent": {
+              "primaryLine": [],
+              "secondaryLine": [
+                {
+                  "type": null,
+                  "headline": null,
+                  "body": "Feb 1 – 6",
+                  "bodyType": null,
+                  "bodyA11yLabel": null,
+                  "fontWeight": null
+                }
+              ],
+              "mapPrimaryLine": null,
+              "mapSecondaryLine": [
+                {
+                  "type": null,
+                  "headline": null,
+                  "body": "Feb 1 – 6",
+                  "bodyType": null,
+                  "bodyA11yLabel": null,
+                  "fontWeight": null
+                }
+              ],
+              "mapCategoryInfo": null,
+              "distance": null
+            },
+            "tierId": 0
+          },
+          "pricingQuote": {
+            "structuredStayDisplayPrice": {
+              "primaryLine": {
+                "accessibilityLabel": "$24 per night",
+                "displayComponentType": "QUALIFIED_DISPLAY_PRICE_LINE",
+                "concatQualifierLeft": false,
+                "price": "$24",
+                "qualifier": "night",
+                "trailingContent": null,
+                "shortQualifier": "night"
+              },
+              "secondaryLine": null,
+              "explanationData": null,
+              "explanationDataDisplayPosition": "SECONDARY_LINE"
+            }
+          },
+          "listingParamOverrides": {
+            "adults": 1,
+            "children": 0,
+            "infants": 0,
+            "checkin": "2024-02-01",
+            "checkout": "2024-02-06",
+            "causeId": null,
+            "relaxedAmenityIds": null,
+            "categoryTag": null,
+            "pets": 0,
+            "splitStaysUuid": null,
+            "highlightType": null,
+            "photoId": null
+          }
+        },
+        {
+          "id": "1078231496791776062",
+          "photoId": null,
+          "listing": {
+            "id": "1078231496791776062",
+            "title": "Home in Lucknow",
+            "titleLocale": "en",
+            "name": "Cestlavie - The Rustic Nook",
+            "localizedCityName": "Lucknow",
+            "city": "Lucknow",
+            "avgRatingLocalized": "New",
+            "avgRatingA11yLabel": "New place to stay",
+            "contextualPictures": [
+              {
+                "id": "1829347364",
+                "picture": "https://a0.muscache.com/im/pictures/hosting/Hosting-1078231496791776062/original/5b807a7e-a6de-4f71-83ee-ad622941932a.jpeg?im_w=720",
+                "caption": null
+              },
+              {
+                "id": "1829347482",
+                "picture": "https://a0.muscache.com/im/pictures/hosting/Hosting-1078231496791776062/original/b322a033-d200-47e8-8859-78c4db559011.jpeg?im_w=720",
+                "caption": {
+                  "kickerBadge": null,
+                  "messages": [
+                    "2 beds",
+                    "2 bedrooms"
+                  ],
+                  "textColor": null,
+                  "formattedMessages": null
+                }
+              },
+              {
+                "id": "1829347390",
+                "picture": "https://a0.muscache.com/im/pictures/hosting/Hosting-1078231496791776062/original/b22c7c2f-adaf-4772-ac1f-c0e5de905a41.jpeg?im_w=720",
+                "caption": {
+                  "kickerBadge": null,
+                  "messages": [
+                    "3 baths"
+                  ],
+                  "textColor": null,
+                  "formattedMessages": null
+                }
+              },
+              {
+                "id": "1829347487",
+                "picture": "https://a0.muscache.com/im/pictures/hosting/Hosting-1078231496791776062/original/bbc62d0e-fe07-418e-9999-925c9dfa9d57.jpeg?im_w=720",
+                "caption": {
+                  "kickerBadge": null,
+                  "messages": [
+                    "1 king bed",
+                    "1 queen bed"
+                  ],
+                  "textColor": null,
+                  "formattedMessages": null
+                }
+              },
+              {
+                "id": "1829347457",
+                "picture": "https://a0.muscache.com/im/pictures/hosting/Hosting-1078231496791776062/original/f0b71d7e-f028-4385-8648-9cf5164115b0.jpeg?im_w=720",
+                "caption": {
+                  "kickerBadge": null,
+                  "messages": [
+                    "Wifi",
+                    "Self check-in",
+                    "Kitchen",
+                    "Free parking"
+                  ],
+                  "textColor": null,
+                  "formattedMessages": null
+                }
+              },
+              {
+                "id": "1829347473",
+                "picture": "https://a0.muscache.com/im/pictures/hosting/Hosting-1078231496791776062/original/d739ed98-11f5-41c8-9076-31d1086528a5.jpeg?im_w=720",
+                "caption": {
+                  "kickerBadge": null,
+                  "messages": [
+                    "Free cancellation for 48 hours"
+                  ],
+                  "textColor": null,
+                  "formattedMessages": null
+                }
+              }
+            ],
+            "coordinate": {
+              "longitude": 80.9818272,
+              "latitude": 26.8894237
+            },
+            "formattedBadges": [
+              {
+                "text": "Superhost",
+                "textColor": "#FFFFFF",
+                "style": "MUTED_ROUNDED_PILL",
+                "loggingContext": {
+                  "badgeType": "SUPERHOST"
+                }
+              }
+            ],
+            "isAutoTranslated": false,
+            "listingObjType": "REGULAR",
+            "primaryHostPassport": null,
+            "pdpType": "MARKETPLACE",
+            "roomTypeCategory": "entire_home",
+            "roomTypeId": null,
+            "structuredContent": {
+              "primaryLine": [
+                {
+                  "type": null,
+                  "headline": null,
+                  "body": "2 beds",
+                  "bodyType": null,
+                  "bodyA11yLabel": null,
+                  "fontWeight": null
+                }
+              ],
+              "secondaryLine": [
+                {
+                  "type": null,
+                  "headline": null,
+                  "body": "Feb 1 – 6",
+                  "bodyType": null,
+                  "bodyA11yLabel": null,
+                  "fontWeight": null
+                }
+              ],
+              "mapPrimaryLine": null,
+              "mapSecondaryLine": [
+                {
+                  "type": null,
+                  "headline": null,
+                  "body": "Feb 1 – 6",
+                  "bodyType": null,
+                  "bodyA11yLabel": null,
+                  "fontWeight": null
+                }
+              ],
+              "mapCategoryInfo": null,
+              "distance": null
+            },
+            "tierId": 0
+          },
+          "pricingQuote": {
+            "structuredStayDisplayPrice": {
+              "primaryLine": {
+                "accessibilityLabel": "$34 per night",
+                "displayComponentType": "QUALIFIED_DISPLAY_PRICE_LINE",
+                "concatQualifierLeft": false,
+                "price": "$34",
+                "qualifier": "night",
+                "trailingContent": null,
+                "shortQualifier": "night"
+              },
+              "secondaryLine": null,
+              "explanationData": null,
+              "explanationDataDisplayPosition": "SECONDARY_LINE"
+            }
+          },
+          "listingParamOverrides": {
+            "adults": 1,
+            "children": 0,
+            "infants": 0,
+            "checkin": "2024-02-01",
+            "checkout": "2024-02-06",
+            "causeId": null,
+            "relaxedAmenityIds": null,
+            "categoryTag": null,
+            "pets": 0,
+            "splitStaysUuid": null,
+            "highlightType": null,
+            "photoId": null
+          }
+        },
+        {
+          "id": "780255988496542051",
+          "photoId": null,
+          "listing": {
+            "id": "780255988496542051",
+            "title": "Apartment in Lucknow",
+            "titleLocale": "en",
+            "name": "HoDo",
+            "localizedCityName": "Lucknow",
+            "city": "Lucknow",
+            "avgRatingLocalized": "4.2 (20)",
+            "avgRatingA11yLabel": "4.2 out of 5 average rating,  20 reviews",
+            "contextualPictures": [
+              {
+                "id": "1561226412",
+                "picture": "https://a0.muscache.com/im/pictures/5d61923b-9f17-4bd9-bd0d-5d28c99088a3.jpg?im_w=720",
+                "caption": null
+              },
+              {
+                "id": "1544665599",
+                "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-780255988496542051/original/62d9bab6-cdec-4bac-b939-d461ddc83cd0.jpeg?im_w=720",
+                "caption": {
+                  "kickerBadge": null,
+                  "messages": [
+                    "1 bed",
+                    "1 bedroom"
+                  ],
+                  "textColor": null,
+                  "formattedMessages": null
+                }
+              },
+              {
+                "id": "1544666222",
+                "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-780255988496542051/original/21196a2f-da5e-4d37-b5e6-d644310ca06c.jpeg?im_w=720",
+                "caption": {
+                  "kickerBadge": null,
+                  "messages": [
+                    "1 bath"
+                  ],
+                  "textColor": null,
+                  "formattedMessages": null
+                }
+              },
+              {
+                "id": "1551548930",
+                "picture": "https://a0.muscache.com/im/pictures/fa466ee4-a003-4657-a466-9089d2a02229.jpg?im_w=720",
+                "caption": {
+                  "kickerBadge": null,
+                  "messages": [
+                    "Wifi",
+                    "Kitchen",
+                    "Free parking"
+                  ],
+                  "textColor": null,
+                  "formattedMessages": null
+                }
+              },
+              {
+                "id": "1561226930",
+                "picture": "https://a0.muscache.com/im/pictures/c85e54a2-02b9-44a8-824d-edc2428a4705.jpg?im_w=720",
+                "caption": {
+                  "kickerBadge": null,
+                  "messages": [
+                    "Rated 4.4 out of 5 for cleanliness"
+                  ],
+                  "textColor": null,
+                  "formattedMessages": null
+                }
+              },
+              {
+                "id": "1561227270",
+                "picture": "https://a0.muscache.com/im/pictures/d74fe8d9-bf25-4b00-aa55-613edde3a72f.jpg?im_w=720",
+                "caption": null
+              }
+            ],
+            "coordinate": {
+              "longitude": 81.0079,
+              "latitude": 26.86766
+            },
+            "formattedBadges": [],
+            "isAutoTranslated": false,
+            "listingObjType": "REGULAR",
+            "primaryHostPassport": null,
+            "pdpType": "MARKETPLACE",
+            "roomTypeCategory": "entire_home",
+            "roomTypeId": null,
+            "structuredContent": {
+              "primaryLine": [
+                {
+                  "type": null,
+                  "headline": null,
+                  "body": "1 bed",
+                  "bodyType": null,
+                  "bodyA11yLabel": null,
+                  "fontWeight": null
+                }
+              ],
+              "secondaryLine": [
+                {
+                  "type": null,
+                  "headline": null,
+                  "body": "Feb 6 – 11",
+                  "bodyType": null,
+                  "bodyA11yLabel": null,
+                  "fontWeight": null
+                }
+              ],
+              "mapPrimaryLine": null,
+              "mapSecondaryLine": [
+                {
+                  "type": null,
+                  "headline": null,
+                  "body": "Feb 6 – 11",
+                  "bodyType": null,
+                  "bodyA11yLabel": null,
+                  "fontWeight": null
+                }
+              ],
+              "mapCategoryInfo": null,
+              "distance": null
+            },
+            "tierId": 0
+          },
+          "pricingQuote": {
+            "structuredStayDisplayPrice": {
+              "primaryLine": {
+                "accessibilityLabel": "$24 per night",
+                "displayComponentType": "QUALIFIED_DISPLAY_PRICE_LINE",
+                "concatQualifierLeft": false,
+                "price": "$24",
+                "qualifier": "night",
+                "trailingContent": null,
+                "shortQualifier": "night"
+              },
+              "secondaryLine": null,
+              "explanationData": null,
+              "explanationDataDisplayPosition": "SECONDARY_LINE"
+            }
+          },
+          "listingParamOverrides": {
+            "adults": 1,
+            "children": 0,
+            "infants": 0,
+            "checkin": "2024-02-06",
+            "checkout": "2024-02-11",
+            "causeId": null,
+            "relaxedAmenityIds": null,
+            "categoryTag": null,
+            "pets": 0,
+            "splitStaysUuid": null,
+            "highlightType": null,
+            "photoId": null
+          }
+        },
+        {
+          "id": "697053008612533284",
+          "photoId": null,
+          "listing": {
+            "id": "697053008612533284",
+            "title": "Condo in Lucknow",
+            "titleLocale": "en",
+            "name": "Helios Maximus by Archipixels homes | Maximalist",
+            "localizedCityName": "Lucknow",
+            "city": "Lucknow",
+            "avgRatingLocalized": "4.98 (43)",
+            "avgRatingA11yLabel": "4.98 out of 5 average rating,  43 reviews",
+            "contextualPictures": [
+              {
+                "id": "1610585459",
+                "picture": "https://a0.muscache.com/im/pictures/807b9431-1ca8-4d58-9015-b51794ac6ddc.jpg?im_w=720",
+                "caption": null
+              },
+              {
+                "id": "1565846587",
+                "picture": "https://a0.muscache.com/im/pictures/b24fe84c-4314-4199-8ab9-0abc7e02217b.jpg?im_w=720",
+                "caption": {
+                  "kickerBadge": null,
+                  "messages": [
+                    "1 bed",
+                    "1 bedroom"
+                  ],
+                  "textColor": null,
+                  "formattedMessages": null
+                }
+              },
+              {
+                "id": "1569905922",
+                "picture": "https://a0.muscache.com/im/pictures/77697aeb-aaf2-477a-ba05-0bbb6726f51e.jpg?im_w=720",
+                "caption": {
+                  "kickerBadge": null,
+                  "messages": [
+                    "1 bath"
+                  ],
+                  "textColor": null,
+                  "formattedMessages": null
+                }
+              },
+              {
+                "id": "1610585775",
+                "picture": "https://a0.muscache.com/im/pictures/5c80d59f-78b4-46bd-ae52-46bab62a3d8f.jpg?im_w=720",
+                "caption": {
+                  "kickerBadge": null,
+                  "messages": [
+                    "Wifi",
+                    "Self check-in",
+                    "Kitchen",
+                    "Free parking"
+                  ],
+                  "textColor": null,
+                  "formattedMessages": null
+                }
+              },
+              {
+                "id": "1610586803",
+                "picture": "https://a0.muscache.com/im/pictures/ff1b4786-ede6-4710-844b-072aecad25be.jpg?im_w=720",
+                "caption": {
+                  "kickerBadge": null,
+                  "messages": [
+                    "Rated 4.9 out of 5 for cleanliness"
+                  ],
+                  "textColor": null,
+                  "formattedMessages": null
+                }
+              },
+              {
+                "id": "1569905894",
+                "picture": "https://a0.muscache.com/im/pictures/bba6cd43-3904-4055-82df-a2de818fb5b1.jpg?im_w=720",
+                "caption": null
+              }
+            ],
+            "coordinate": {
+              "longitude": 81.00661888718605,
+              "latitude": 26.86548672839614
+            },
+            "formattedBadges": [
+              {
+                "text": "Guest favorite",
+                "textColor": "#000000",
+                "style": "LOUD_ROUNDED_PILL",
+                "loggingContext": {
+                  "badgeType": "GUEST_FAVORITE"
+                }
+              }
+            ],
+            "isAutoTranslated": false,
+            "listingObjType": "REGULAR",
+            "primaryHostPassport": null,
+            "pdpType": "MARKETPLACE",
+            "roomTypeCategory": "entire_home",
+            "roomTypeId": null,
+            "structuredContent": {
+              "primaryLine": [
+                {
+                  "type": null,
+                  "headline": null,
+                  "body": "1 bed",
+                  "bodyType": null,
+                  "bodyA11yLabel": null,
+                  "fontWeight": null
+                }
+              ],
+              "secondaryLine": [
+                {
+                  "type": null,
+                  "headline": null,
+                  "body": "Feb 1 – 6",
+                  "bodyType": null,
+                  "bodyA11yLabel": null,
+                  "fontWeight": null
+                }
+              ],
+              "mapPrimaryLine": null,
+              "mapSecondaryLine": [
+                {
+                  "type": null,
+                  "headline": null,
+                  "body": "Feb 1 – 6",
+                  "bodyType": null,
+                  "bodyA11yLabel": null,
+                  "fontWeight": null
+                }
+              ],
+              "mapCategoryInfo": null,
+              "distance": null
+            },
+            "tierId": 0
+          },
+          "pricingQuote": {
+            "structuredStayDisplayPrice": {
+              "primaryLine": {
+                "accessibilityLabel": "$53 per night",
+                "displayComponentType": "QUALIFIED_DISPLAY_PRICE_LINE",
+                "concatQualifierLeft": false,
+                "price": "$53",
+                "qualifier": "night",
+                "trailingContent": null,
+                "shortQualifier": "night"
+              },
+              "secondaryLine": null,
+              "explanationData": null,
+              "explanationDataDisplayPosition": "SECONDARY_LINE"
+            }
+          },
+          "listingParamOverrides": {
+            "adults": 1,
+            "children": 0,
+            "infants": 0,
+            "checkin": "2024-02-01",
+            "checkout": "2024-02-06",
+            "causeId": null,
+            "relaxedAmenityIds": null,
+            "categoryTag": null,
+            "pets": 0,
+            "splitStaysUuid": null,
+            "highlightType": null,
+            "photoId": null
+          }
+        },
+        {
+          "id": "670595627477375092",
+          "photoId": null,
+          "listing": {
+            "id": "670595627477375092",
+            "title": "Condo in Lucknow",
+            "titleLocale": "en",
+            "name": "DLF MyPad Studio - 1",
+            "localizedCityName": "Lucknow",
+            "city": "Lucknow",
+            "avgRatingLocalized": "4.95 (44)",
+            "avgRatingA11yLabel": "4.95 out of 5 average rating,  44 reviews",
+            "contextualPictures": [
+              {
+                "id": "1511742532",
+                "picture": "https://a0.muscache.com/im/pictures/cc9ce2a7-7b21-4d06-8a57-59cd3a4b24ad.jpg?im_w=720",
+                "caption": null
+              },
+              {
+                "id": "1698235770",
+                "picture": "https://a0.muscache.com/im/pictures/f39c7a54-923b-4fd7-82aa-76d9c3362e3e.jpg?im_w=720",
+                "caption": {
+                  "kickerBadge": null,
+                  "messages": [
+                    "1 bed",
+                    "Studio"
+                  ],
+                  "textColor": null,
+                  "formattedMessages": null
+                }
+              },
+              {
+                "id": "1511742563",
+                "picture": "https://a0.muscache.com/im/pictures/8dfd86c4-f5a9-4563-855f-c8c2425729b4.jpg?im_w=720",
+                "caption": {
+                  "kickerBadge": null,
+                  "messages": [
+                    "1 bath"
+                  ],
+                  "textColor": null,
+                  "formattedMessages": null
+                }
+              },
+              {
+                "id": "1698236777",
+                "picture": "https://a0.muscache.com/im/pictures/faa50fef-aee4-480f-81ff-05e71fca9ad7.jpg?im_w=720",
+                "caption": {
+                  "kickerBadge": null,
+                  "messages": [
+                    "1 queen bed"
+                  ],
+                  "textColor": null,
+                  "formattedMessages": null
+                }
+              },
+              {
+                "id": "1698238368",
+                "picture": "https://a0.muscache.com/im/pictures/fe5eeafd-bb63-4a36-a8bc-0a58be42231b.jpg?im_w=720",
+                "caption": {
+                  "kickerBadge": null,
+                  "messages": [
+                    "Wifi",
+                    "Self check-in",
+                    "Free parking"
+                  ],
+                  "textColor": null,
+                  "formattedMessages": null
+                }
+              },
+              {
+                "id": "1698235041",
+                "picture": "https://a0.muscache.com/im/pictures/969d47a7-75ee-4ebb-9b95-a890fe549252.jpg?im_w=720",
+                "caption": {
+                  "kickerBadge": null,
+                  "messages": [
+                    "Rated 4.8 out of 5 for cleanliness"
+                  ],
+                  "textColor": null,
+                  "formattedMessages": null
+                }
+              }
+            ],
+            "coordinate": {
+              "longitude": 81.01087,
+              "latitude": 26.86584
+            },
+            "formattedBadges": [
+              {
+                "text": "Guest favorite",
+                "textColor": "#000000",
+                "style": "LOUD_ROUNDED_PILL",
+                "loggingContext": {
+                  "badgeType": "GUEST_FAVORITE"
+                }
+              }
+            ],
+            "isAutoTranslated": false,
+            "listingObjType": "REGULAR",
+            "primaryHostPassport": null,
+            "pdpType": "MARKETPLACE",
+            "roomTypeCategory": "entire_home",
+            "roomTypeId": null,
+            "structuredContent": {
+              "primaryLine": [
+                {
+                  "type": null,
+                  "headline": null,
+                  "body": "1 queen bed",
+                  "bodyType": null,
+                  "bodyA11yLabel": null,
+                  "fontWeight": null
+                }
+              ],
+              "secondaryLine": [
+                {
+                  "type": null,
+                  "headline": null,
+                  "body": "Feb 1 – 6",
+                  "bodyType": null,
+                  "bodyA11yLabel": null,
+                  "fontWeight": null
+                }
+              ],
+              "mapPrimaryLine": null,
+              "mapSecondaryLine": [
+                {
+                  "type": null,
+                  "headline": null,
+                  "body": "Feb 1 – 6",
+                  "bodyType": null,
+                  "bodyA11yLabel": null,
+                  "fontWeight": null
+                }
+              ],
+              "mapCategoryInfo": null,
+              "distance": null
+            },
+            "tierId": 0
+          },
+          "pricingQuote": {
+            "structuredStayDisplayPrice": {
+              "primaryLine": {
+                "accessibilityLabel": "$35 per night",
+                "displayComponentType": "QUALIFIED_DISPLAY_PRICE_LINE",
+                "concatQualifierLeft": false,
+                "price": "$35",
+                "qualifier": "night",
+                "trailingContent": null,
+                "shortQualifier": "night"
+              },
+              "secondaryLine": null,
+              "explanationData": null,
+              "explanationDataDisplayPosition": "SECONDARY_LINE"
+            }
+          },
+          "listingParamOverrides": {
+            "adults": 1,
+            "children": 0,
+            "infants": 0,
+            "checkin": "2024-02-01",
+            "checkout": "2024-02-06",
+            "causeId": null,
+            "relaxedAmenityIds": null,
+            "categoryTag": null,
+            "pets": 0,
+            "splitStaysUuid": null,
+            "highlightType": null,
+            "photoId": null
+          }
+        },
+        {
+          "id": "1073678776393836934",
+          "photoId": null,
+          "listing": {
+            "id": "1073678776393836934",
+            "title": "Apartment in Lucknow",
+            "titleLocale": "en",
+            "name": "Netflix and Chill",
+            "localizedCityName": "Lucknow",
+            "city": "Lucknow",
+            "avgRatingLocalized": "New",
+            "avgRatingA11yLabel": "New place to stay",
+            "contextualPictures": [
+              {
+                "id": "1825292816",
+                "picture": "https://a0.muscache.com/im/pictures/hosting/Hosting-1073678776393836934/original/7b52a15e-9a02-4e49-b1b0-34a511b8606f.jpeg?im_w=720",
+                "caption": null
+              },
+              {
+                "id": "1825293026",
+                "picture": "https://a0.muscache.com/im/pictures/hosting/Hosting-1073678776393836934/original/2d9e943e-0659-4779-9879-4384bd237d01.jpeg?im_w=720",
+                "caption": {
+                  "kickerBadge": null,
+                  "messages": [
+                    "1 bed",
+                    "1 bedroom"
+                  ],
+                  "textColor": null,
+                  "formattedMessages": null
+                }
+              },
+              {
+                "id": "1825293053",
+                "picture": "https://a0.muscache.com/im/pictures/hosting/Hosting-1073678776393836934/original/259f0ba3-60f5-47b4-b47b-bf8a53885e63.jpeg?im_w=720",
+                "caption": {
+                  "kickerBadge": null,
+                  "messages": [
+                    "1 bath"
+                  ],
+                  "textColor": null,
+                  "formattedMessages": null
+                }
+              },
+              {
+                "id": "1825293046",
+                "picture": "https://a0.muscache.com/im/pictures/hosting/Hosting-1073678776393836934/original/5be90240-902b-4419-968a-eb6c8021352e.jpeg?im_w=720",
+                "caption": {
+                  "kickerBadge": null,
+                  "messages": [
+                    "Wifi",
+                    "Self check-in",
+                    "Kitchen",
+                    "Free parking"
+                  ],
+                  "textColor": null,
+                  "formattedMessages": null
+                }
+              },
+              {
+                "id": "1825292989",
+                "picture": "https://a0.muscache.com/im/pictures/hosting/Hosting-1073678776393836934/original/0dd5a142-fb2e-46c2-b914-bfab17632237.jpeg?im_w=720",
+                "caption": null
+              },
+              {
+                "id": "1825293251",
+                "picture": "https://a0.muscache.com/im/pictures/hosting/Hosting-1073678776393836934/original/85a45dc7-a415-4740-9cf9-a8e4096435c5.jpeg?im_w=720",
+                "caption": null
+              }
+            ],
+            "coordinate": {
+              "longitude": 81.00644419999999,
+              "latitude": 26.8661776
+            },
+            "formattedBadges": [],
+            "isAutoTranslated": false,
+            "listingObjType": "REGULAR",
+            "primaryHostPassport": null,
+            "pdpType": "MARKETPLACE",
+            "roomTypeCategory": "entire_home",
+            "roomTypeId": null,
+            "structuredContent": {
+              "primaryLine": [
+                {
+                  "type": null,
+                  "headline": null,
+                  "body": "1 bed",
+                  "bodyType": null,
+                  "bodyA11yLabel": null,
+                  "fontWeight": null
+                }
+              ],
+              "secondaryLine": [
+                {
+                  "type": null,
+                  "headline": null,
+                  "body": "Feb 1 – 6",
+                  "bodyType": null,
+                  "bodyA11yLabel": null,
+                  "fontWeight": null
+                }
+              ],
+              "mapPrimaryLine": null,
+              "mapSecondaryLine": [
+                {
+                  "type": null,
+                  "headline": null,
+                  "body": "Feb 1 – 6",
+                  "bodyType": null,
+                  "bodyA11yLabel": null,
+                  "fontWeight": null
+                }
+              ],
+              "mapCategoryInfo": null,
+              "distance": null
+            },
+            "tierId": 0
+          },
+          "pricingQuote": {
+            "structuredStayDisplayPrice": {
+              "primaryLine": {
+                "accessibilityLabel": "$32 per night",
+                "displayComponentType": "QUALIFIED_DISPLAY_PRICE_LINE",
+                "concatQualifierLeft": false,
+                "price": "$32",
+                "qualifier": "night",
+                "trailingContent": null,
+                "shortQualifier": "night"
+              },
+              "secondaryLine": null,
+              "explanationData": null,
+              "explanationDataDisplayPosition": "SECONDARY_LINE"
+            }
+          },
+          "listingParamOverrides": {
+            "adults": 1,
+            "children": 0,
+            "infants": 0,
+            "checkin": "2024-02-01",
+            "checkout": "2024-02-06",
+            "causeId": null,
+            "relaxedAmenityIds": null,
+            "categoryTag": null,
+            "pets": 0,
+            "splitStaysUuid": null,
+            "highlightType": null,
+            "photoId": null
+          }
+        },
+        {
+          "id": "741578725036677487",
+          "photoId": null,
+          "listing": {
+            "id": "741578725036677487",
+            "title": "Condo in Lucknow",
+            "titleLocale": "en",
+            "name": "UrbanCove7: Bohemian 2BHK Apt (1200 Sqft/GF)",
+            "localizedCityName": "Lucknow",
+            "city": "Lucknow",
+            "avgRatingLocalized": "4.83 (59)",
+            "avgRatingA11yLabel": "4.83 out of 5 average rating,  59 reviews",
+            "contextualPictures": [
+              {
+                "id": "1511691046",
+                "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-741578725036677487/original/d2e66c6f-5058-4630-ab27-20222c4d1552.jpeg?im_w=720",
+                "caption": null
+              },
+              {
+                "id": "1511690879",
+                "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-741578725036677487/original/ff7f0e62-f7a3-489a-9575-873e4935a94f.jpeg?im_w=720",
+                "caption": {
+                  "kickerBadge": null,
+                  "messages": [
+                    "2 beds",
+                    "2 bedrooms"
+                  ],
+                  "textColor": null,
+                  "formattedMessages": null
+                }
+              },
+              {
+                "id": "1511691010",
+                "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-741578725036677487/original/42c8a275-baa3-4a5e-af96-9f1b77e99fbe.jpeg?im_w=720",
+                "caption": {
+                  "kickerBadge": null,
+                  "messages": [
+                    "2.5 baths"
+                  ],
+                  "textColor": null,
+                  "formattedMessages": null
+                }
+              },
+              {
+                "id": "1511690981",
+                "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-741578725036677487/original/867b3294-26d1-4a08-8c26-9a7e250153e1.jpeg?im_w=720",
+                "caption": {
+                  "kickerBadge": null,
+                  "messages": [
+                    "2 double beds"
+                  ],
+                  "textColor": null,
+                  "formattedMessages": null
+                }
+              },
+              {
+                "id": "1511690859",
+                "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-741578725036677487/original/1edb3537-0fb9-41e9-b45d-8fc215a78112.jpeg?im_w=720",
+                "caption": {
+                  "kickerBadge": null,
+                  "messages": [
+                    "Wifi",
+                    "Self check-in",
+                    "Kitchen",
+                    "Free parking"
+                  ],
+                  "textColor": null,
+                  "formattedMessages": null
+                }
+              },
+              {
+                "id": "1533813639",
+                "picture": "https://a0.muscache.com/im/pictures/f6566fd5-8ae6-4d2c-aebe-5f68ed2188bf.jpg?im_w=720",
+                "caption": {
+                  "kickerBadge": null,
+                  "messages": [
+                    "Rated 4.9 out of 5 for cleanliness"
+                  ],
+                  "textColor": null,
+                  "formattedMessages": null
+                }
+              }
+            ],
+            "coordinate": {
+              "longitude": 81.00242,
+              "latitude": 26.85654
+            },
+            "formattedBadges": [
+              {
+                "text": "Superhost",
+                "textColor": "#FFFFFF",
+                "style": "MUTED_ROUNDED_PILL",
+                "loggingContext": {
+                  "badgeType": "SUPERHOST"
+                }
+              }
+            ],
+            "isAutoTranslated": false,
+            "listingObjType": "REGULAR",
+            "primaryHostPassport": null,
+            "pdpType": "MARKETPLACE",
+            "roomTypeCategory": "entire_home",
+            "roomTypeId": null,
+            "structuredContent": {
+              "primaryLine": [
+                {
+                  "type": null,
+                  "headline": null,
+                  "body": "2 double beds",
+                  "bodyType": null,
+                  "bodyA11yLabel": null,
+                  "fontWeight": null
+                }
+              ],
+              "secondaryLine": [
+                {
+                  "type": null,
+                  "headline": null,
+                  "body": "Feb 5 – 10",
+                  "bodyType": null,
+                  "bodyA11yLabel": null,
+                  "fontWeight": null
+                }
+              ],
+              "mapPrimaryLine": null,
+              "mapSecondaryLine": [
+                {
+                  "type": null,
+                  "headline": null,
+                  "body": "Feb 5 – 10",
+                  "bodyType": null,
+                  "bodyA11yLabel": null,
+                  "fontWeight": null
+                }
+              ],
+              "mapCategoryInfo": null,
+              "distance": null
+            },
+            "tierId": 0
+          },
+          "pricingQuote": {
+            "structuredStayDisplayPrice": {
+              "primaryLine": {
+                "accessibilityLabel": "$84 per night",
+                "displayComponentType": "QUALIFIED_DISPLAY_PRICE_LINE",
+                "concatQualifierLeft": false,
+                "price": "$84",
+                "qualifier": "night",
+                "trailingContent": null,
+                "shortQualifier": "night"
+              },
+              "secondaryLine": null,
+              "explanationData": null,
+              "explanationDataDisplayPosition": "SECONDARY_LINE"
+            }
+          },
+          "listingParamOverrides": {
+            "adults": 1,
+            "children": 0,
+            "infants": 0,
+            "checkin": "2024-02-05",
+            "checkout": "2024-02-10",
+            "causeId": null,
+            "relaxedAmenityIds": null,
+            "categoryTag": null,
+            "pets": 0,
+            "splitStaysUuid": null,
+            "highlightType": null,
+            "photoId": null
+          }
+        },
+        {
+          "id": "44548426",
+          "photoId": null,
+          "listing": {
+            "id": "44548426",
+            "title": "Bungalow in Lucknow",
+            "titleLocale": "en",
+            "name": "Serene 6BHK Bungalow Flr w/Garden I City Centre",
+            "localizedCityName": "Lucknow",
+            "city": "Lucknow",
+            "avgRatingLocalized": "4.83 (6)",
+            "avgRatingA11yLabel": "4.83 out of 5 average rating,  6 reviews",
+            "contextualPictures": [
+              {
+                "id": "1725636650",
+                "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-44548426/original/de858316-415e-473b-9aed-c983228ba645.jpeg?im_w=720",
+                "caption": null
+              },
+              {
+                "id": "1139902818",
+                "picture": "https://a0.muscache.com/im/pictures/80796add-1222-4fdd-9e09-383485f49b0f.jpg?im_w=720",
+                "caption": {
+                  "kickerBadge": null,
+                  "messages": [
+                    "17 beds",
+                    "6 bedrooms"
+                  ],
+                  "textColor": null,
+                  "formattedMessages": null
+                }
+              },
+              {
+                "id": "1052624006",
+                "picture": "https://a0.muscache.com/im/pictures/30af7c30-9fce-447f-af29-a410d5e13227.jpg?im_w=720",
+                "caption": {
+                  "kickerBadge": null,
+                  "messages": [
+                    "6 baths"
+                  ],
+                  "textColor": null,
+                  "formattedMessages": null
+                }
+              },
+              {
+                "id": "1264352013",
+                "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-44548426/original/dc1cf52a-0062-4be1-ae51-95879d00c490.jpeg?im_w=720",
+                "caption": {
+                  "kickerBadge": null,
+                  "messages": [
+                    "6 double beds",
+                    "11 single beds"
+                  ],
+                  "textColor": null,
+                  "formattedMessages": null
+                }
+              },
+              {
+                "id": "1048579086",
+                "picture": "https://a0.muscache.com/im/pictures/4a4fa52d-d1b4-470c-af0c-0c5276eaf7b8.jpg?im_w=720",
+                "caption": {
+                  "kickerBadge": null,
+                  "messages": [
+                    "Wifi",
+                    "Self check-in",
+                    "Kitchen",
+                    "Free parking"
+                  ],
+                  "textColor": null,
+                  "formattedMessages": null
+                }
+              },
+              {
+                "id": "1264351721",
+                "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-44548426/original/92b5c882-fadb-460b-a333-63b0032b0bca.jpeg?im_w=720",
+                "caption": {
+                  "kickerBadge": null,
+                  "messages": [
+                    "Rated 4.8 out of 5 for cleanliness"
+                  ],
+                  "textColor": null,
+                  "formattedMessages": null
+                }
+              }
+            ],
+            "coordinate": {
+              "longitude": 80.94618,
+              "latitude": 26.87312
+            },
+            "formattedBadges": [
+              {
+                "text": "Superhost",
+                "textColor": "#FFFFFF",
+                "style": "MUTED_ROUNDED_PILL",
+                "loggingContext": {
+                  "badgeType": "SUPERHOST"
+                }
+              }
+            ],
+            "isAutoTranslated": false,
+            "listingObjType": "REGULAR",
+            "primaryHostPassport": null,
+            "pdpType": "MARKETPLACE",
+            "roomTypeCategory": "entire_home",
+            "roomTypeId": null,
+            "structuredContent": {
+              "primaryLine": [
+                {
+                  "type": null,
+                  "headline": null,
+                  "body": "17 beds",
+                  "bodyType": null,
+                  "bodyA11yLabel": null,
+                  "fontWeight": null
+                }
+              ],
+              "secondaryLine": [
+                {
+                  "type": null,
+                  "headline": null,
+                  "body": "Mar 6 – 11",
+                  "bodyType": null,
+                  "bodyA11yLabel": null,
+                  "fontWeight": null
+                }
+              ],
+              "mapPrimaryLine": null,
+              "mapSecondaryLine": [
+                {
+                  "type": null,
+                  "headline": null,
+                  "body": "Mar 6 – 11",
+                  "bodyType": null,
+                  "bodyA11yLabel": null,
+                  "fontWeight": null
+                }
+              ],
+              "mapCategoryInfo": null,
+              "distance": null
+            },
+            "tierId": 0
+          },
+          "pricingQuote": {
+            "structuredStayDisplayPrice": {
+              "primaryLine": {
+                "accessibilityLabel": "$210 per night",
+                "displayComponentType": "QUALIFIED_DISPLAY_PRICE_LINE",
+                "concatQualifierLeft": false,
+                "price": "$210",
+                "qualifier": "night",
+                "trailingContent": null,
+                "shortQualifier": "night"
+              },
+              "secondaryLine": null,
+              "explanationData": null,
+              "explanationDataDisplayPosition": "SECONDARY_LINE"
+            }
+          },
+          "listingParamOverrides": {
+            "adults": 1,
+            "children": 0,
+            "infants": 0,
+            "checkin": "2024-03-06",
+            "checkout": "2024-03-11",
+            "causeId": null,
+            "relaxedAmenityIds": null,
+            "categoryTag": null,
+            "pets": 0,
+            "splitStaysUuid": null,
+            "highlightType": null,
+            "photoId": null
+          }
+        },
+        {
+          "id": "987527581712890269",
+          "photoId": null,
+          "listing": {
+            "id": "987527581712890269",
+            "title": "Apartment in Lucknow",
+            "titleLocale": "en",
+            "name": "Panoramic Perch",
+            "localizedCityName": "Lucknow",
+            "city": "Lucknow",
+            "avgRatingLocalized": "5.0 (10)",
+            "avgRatingA11yLabel": "5.0 out of 5 average rating,  10 reviews",
+            "contextualPictures": [
+              {
+                "id": "1746017523",
+                "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-987527581712890269/original/692bf43f-fc1d-4ec1-8b58-9c68d94befd2.jpeg?im_w=720",
+                "caption": null
+              },
+              {
+                "id": "1746017522",
+                "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-987527581712890269/original/722ef72d-f225-4c93-9e41-32a3be979b77.jpeg?im_w=720",
+                "caption": {
+                  "kickerBadge": null,
+                  "messages": [
+                    "3 beds",
+                    "3 bedrooms"
+                  ],
+                  "textColor": null,
+                  "formattedMessages": null
+                }
+              },
+              {
+                "id": "1748517497",
+                "picture": "https://a0.muscache.com/im/pictures/3a880b53-2419-4ecc-93ba-5ca0a98eecb2.jpg?im_w=720",
+                "caption": {
+                  "kickerBadge": null,
+                  "messages": [
+                    "3 baths"
+                  ],
+                  "textColor": null,
+                  "formattedMessages": null
+                }
+              },
+              {
+                "id": "1748517580",
+                "picture": "https://a0.muscache.com/im/pictures/310090a7-0273-417c-a59a-abf70a573cb2.jpg?im_w=720",
+                "caption": {
+                  "kickerBadge": null,
+                  "messages": [
+                    "Wifi",
+                    "Self check-in",
+                    "Kitchen",
+                    "Free parking"
+                  ],
+                  "textColor": null,
+                  "formattedMessages": null
+                }
+              },
+              {
+                "id": "1766118193",
+                "picture": "https://a0.muscache.com/im/pictures/c537a7d0-ddbc-494c-9384-5bab27481b01.jpg?im_w=720",
+                "caption": {
+                  "kickerBadge": null,
+                  "messages": [
+                    "Rated 5 out of 5 for cleanliness"
+                  ],
+                  "textColor": null,
+                  "formattedMessages": null
+                }
+              },
+              {
+                "id": "1746018511",
+                "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-987527581712890269/original/e62e5606-5395-4061-b897-62166558118b.jpeg?im_w=720",
+                "caption": {
+                  "kickerBadge": null,
+                  "messages": [
+                    "Free cancellation for 48 hours"
+                  ],
+                  "textColor": null,
+                  "formattedMessages": null
+                }
+              }
+            ],
+            "coordinate": {
+              "longitude": 81.00672326547114,
+              "latitude": 26.807937429758724
+            },
+            "formattedBadges": [
+              {
+                "text": "Guest favorite",
+                "textColor": "#000000",
+                "style": "LOUD_ROUNDED_PILL",
+                "loggingContext": {
+                  "badgeType": "GUEST_FAVORITE"
+                }
+              }
+            ],
+            "isAutoTranslated": false,
+            "listingObjType": "REGULAR",
+            "primaryHostPassport": null,
+            "pdpType": "MARKETPLACE",
+            "roomTypeCategory": "entire_home",
+            "roomTypeId": null,
+            "structuredContent": {
+              "primaryLine": [
+                {
+                  "type": null,
+                  "headline": null,
+                  "body": "3 beds",
+                  "bodyType": null,
+                  "bodyA11yLabel": null,
+                  "fontWeight": null
+                }
+              ],
+              "secondaryLine": [
+                {
+                  "type": null,
+                  "headline": null,
+                  "body": "Feb 5 – 10",
+                  "bodyType": null,
+                  "bodyA11yLabel": null,
+                  "fontWeight": null
+                }
+              ],
+              "mapPrimaryLine": null,
+              "mapSecondaryLine": [
+                {
+                  "type": null,
+                  "headline": null,
+                  "body": "Feb 5 – 10",
+                  "bodyType": null,
+                  "bodyA11yLabel": null,
+                  "fontWeight": null
+                }
+              ],
+              "mapCategoryInfo": null,
+              "distance": null
+            },
+            "tierId": 0
+          },
+          "pricingQuote": {
+            "structuredStayDisplayPrice": {
+              "primaryLine": {
+                "accessibilityLabel": "$76 per night, originally $84",
+                "displayComponentType": "DISCOUNTED_DISPLAY_PRICE_LINE",
+                "concatQualifierLeft": false,
+                "discountedPrice": "$76",
+                "originalPrice": "$84",
+                "qualifier": "night",
+                "trailingContent": null,
+                "shortQualifier": "night"
+              },
+              "secondaryLine": null,
+              "explanationData": null,
+              "explanationDataDisplayPosition": "SECONDARY_LINE"
+            }
+          },
+          "listingParamOverrides": {
+            "adults": 1,
+            "children": 0,
+            "infants": 0,
+            "checkin": "2024-02-05",
+            "checkout": "2024-02-10",
+            "causeId": null,
+            "relaxedAmenityIds": null,
+            "categoryTag": null,
+            "pets": 0,
+            "splitStaysUuid": null,
+            "highlightType": null,
+            "photoId": null
+          }
+        }
+      ],
+      "totalProperty": 283,
+      "structuredTitle": "283 homes"
     }
-}
+  }

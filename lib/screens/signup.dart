@@ -88,15 +88,15 @@ class _SignUpPageState extends State<SignUpPage> {
           padding: const EdgeInsets.all(16.0),
           child: Column(
             mainAxisAlignment: MainAxisAlignment.center,
-            crossAxisAlignment: CrossAxisAlignment.start,
+            crossAxisAlignment: CrossAxisAlignment.center,
             children: [
-              const SizedBox(height: 20),
+              const SizedBox(height: 160),
               Image.asset(
                 "assets/images/logo-airbnb.png",
-                height: 70,
+                height: 60,
                 fit: BoxFit.cover,
               ),
-              const SizedBox(height: 80),
+              const SizedBox(height: 60),
               TextField(
                 controller: _nameController,
                 decoration: InputDecoration(
