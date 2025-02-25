@@ -1,8 +1,5 @@
 import 'package:airbnb/api_services.dart';
 import 'package:flutter/material.dart';
-import 'package:http/http.dart' as http;
-import 'dart:convert';
-import '../theme.dart';
 import '../widgets/search_card.dart';
 
 class SearchResultsPage extends StatefulWidget {

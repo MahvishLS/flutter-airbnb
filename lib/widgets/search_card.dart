@@ -15,7 +15,7 @@ class _SearchCardState extends State<SearchCard> {
 
   @override
   Widget build(BuildContext context) {
-    // Extracting required data from the JSON
+  
     String title = widget.property['listing']['title'] ?? "No Title";
     String firstImageUrl = (widget.property['listing']['contextualPictures'] != null &&
             widget.property['listing']['contextualPictures'].isNotEmpty)

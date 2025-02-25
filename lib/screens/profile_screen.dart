@@ -34,7 +34,7 @@ class ProfileScreen extends StatelessWidget {
                 radius: 50,
                 backgroundColor: Colors.blueAccent,
                 child: FutureBuilder<String?>(
-                  future: _fetchUserName(user!.uid), // Fetch name from Firestore
+                  future: _fetchUserName(user!.uid), 
                   builder: (context, snapshot) {
                     if (snapshot.connectionState == ConnectionState.waiting) {
                       return const CircularProgressIndicator(color: Colors.white);
