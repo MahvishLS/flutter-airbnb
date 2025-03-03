@@ -32,7 +32,7 @@ class _LoginPageState extends State<LoginPage> {
       MaterialPageRoute(builder: (context) => BottomNavBar()),
     );
     } catch (e) {
-      // If login fails, show an error message
+
       setState(() {
         _errorText = "Invalid email or password. Please try again.";
       });

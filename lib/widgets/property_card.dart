@@ -1,3 +1,4 @@
+import 'package:airbnb/widgets/property_details.dart';
 import 'package:flutter/material.dart';
 import 'package:airbnb/theme.dart';
 
@@ -58,15 +59,22 @@ class _PropertyCardState extends State<PropertyCard> {
               children: [
                 Text(widget.property['name'] ?? "No Title",
                     style: Theme.of(context).textTheme.titleLarge),
-                Text(
-                    "${widget.property['city'] ?? 'Unknown Location'}",
+                Text("${widget.property['city'] ?? 'Unknown Location'}",
                     style: Theme.of(context).textTheme.bodySmall),
                 SizedBox(height: 4),
-                Text("₹${widget.property['price']} per night",
+                Text("${widget.property['price']} per night",
                     style: Theme.of(context).textTheme.titleMedium),
                 SizedBox(height: 8),
                 ElevatedButton(
-                  onPressed: () {},
+                  onPressed: () {
+                    Navigator.push(
+                      context,
+                      MaterialPageRoute(
+                        builder: (context) =>
+                            PropertyDetailsPage(property: widget.property),
+                      ),
+                    );
+                  },
                   style: ElevatedButton.styleFrom(
                     backgroundColor: primaryColor,
                     padding: const EdgeInsets.symmetric(

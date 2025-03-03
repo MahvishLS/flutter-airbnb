@@ -1,3 +1,4 @@
+import 'package:airbnb/screens/bookings_page.dart';
 import 'package:airbnb/screens/home_page.dart';
 import 'package:airbnb/screens/lucky_search.dart';
 import 'package:airbnb/screens/profile_screen.dart';
@@ -17,7 +18,7 @@ class _BottomNavBarState extends State<BottomNavBar> {
     HomeScreen(),
     Scaffold(body: Center(child: Text("Wishlists"))), 
     LuckySearchCard(),
-    Scaffold(body: Center(child: Text("Messages"))), 
+    BookingsPage(), 
     ProfileScreen(),
   ];
 
@@ -41,7 +42,7 @@ class _BottomNavBarState extends State<BottomNavBar> {
           BottomNavigationBarItem(icon: Icon(Icons.explore), label: "Explore"),
           BottomNavigationBarItem(icon: Icon(Icons.favorite), label: "Wishlists"),
           BottomNavigationBarItem(icon: Icon(Icons.casino), label: "Random"),
-          BottomNavigationBarItem(icon: Icon(Icons.message), label: "Messages"),
+          BottomNavigationBarItem(icon: Icon(Icons.event), label: "Bookings"),
           BottomNavigationBarItem(icon: Icon(Icons.person), label: "Profile"),
         ],
       ),
