@@ -1,3 +1,4 @@
+import 'package:airbnb/widgets/property_details.dart';
 import 'package:flutter/material.dart';
 import 'package:airbnb/theme.dart';
 
@@ -15,13 +16,15 @@ class _SearchCardState extends State<SearchCard> {
 
   @override
   Widget build(BuildContext context) {
-  
     String title = widget.property['listing']['title'] ?? "No Title";
-    String firstImageUrl = (widget.property['listing']['contextualPictures'] != null &&
-            widget.property['listing']['contextualPictures'].isNotEmpty)
-        ? widget.property['listing']['contextualPictures'][0]['picture']
-        : "https://via.placeholder.com/300";
-    String price = widget.property['pricingQuote']['structuredStayDisplayPrice']['primaryLine']['discountedPrice'] ?? "N/A";
+    String firstImageUrl =
+        (widget.property['listing']['contextualPictures'] != null &&
+                widget.property['listing']['contextualPictures'].isNotEmpty)
+            ? widget.property['listing']['contextualPictures'][0]['picture']
+            : "https://via.placeholder.com/300";
+    String price = widget.property['pricingQuote']['structuredStayDisplayPrice']
+            ['primaryLine']['discountedPrice'] ??
+        "N/A";
 
     return Card(
       margin: const EdgeInsets.only(bottom: 16),
@@ -65,13 +68,39 @@ class _SearchCardState extends State<SearchCard> {
               children: [
                 Text(title, style: Theme.of(context).textTheme.titleLarge),
                 SizedBox(height: 4),
-                Text("₹$price per night", style: Theme.of(context).textTheme.titleMedium),
+                Text("₹$price per night",
+                    style: Theme.of(context).textTheme.titleMedium),
                 SizedBox(height: 8),
                 ElevatedButton(
-                  onPressed: () {},
+                  onPressed: () {
+                    Navigator.push(
+                      context,
+                      MaterialPageRoute(
+                        builder: (context) => PropertyDetailsPage(
+                          property: {
+                            'name': title,
+                            'images': widget.property['listing']
+                                        ['contextualPictures']
+                                    ?.map((pic) => pic['picture'].toString())
+                                    .toList() ??
+                                [firstImageUrl],
+                            'city':
+                                widget.property['listing']['city'] ?? 'Unknown',
+                            'description': widget.property['listing']
+                                    ['description'] ??
+                                'No description available.',
+                            'rating':
+                                widget.property['listing']['avgRating'] ?? 4.5,
+                            'price': "₹$price",
+                          },
+                        ),
+                      ),
+                    );
+                  },
                   style: ElevatedButton.styleFrom(
                     backgroundColor: primaryColor,
-                    padding: const EdgeInsets.symmetric(vertical: 12, horizontal: 40),
+                    padding: const EdgeInsets.symmetric(
+                        vertical: 12, horizontal: 40),
                   ),
                   child: Text(
                     "View",

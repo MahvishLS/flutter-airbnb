@@ -27,8 +27,9 @@ class _BookingsPageState extends State<BookingsPage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text("My Bookings"),
-        backgroundColor: myTheme.appBarTheme.backgroundColor,
+        title: Text("My Bookings", style: TextStyle(color: Colors.white)),
+        backgroundColor: primaryColor,
+        iconTheme: IconThemeData(color: Colors.white),
       ),
       body: FutureBuilder<List<DocumentSnapshot>>(
         future: fetchBookings(),
@@ -58,6 +59,7 @@ class _BookingsPageState extends State<BookingsPage> {
                       Text("City: ${booking['city'] ?? 'Unknown'}", style: bodyTextStyle),
                       Text("Date: ${booking['date'] ?? 'No Date'}", style: bodyTextStyle),
                       Text("Price: ${booking['price'] ?? 'N/A'}", style: bodyTextStyle),
+                      Text("Extra Items: ${booking['essentialsTotal'] ?? 'N/A'}", style: bodyTextStyle),
                     ],
                   )
                 ),

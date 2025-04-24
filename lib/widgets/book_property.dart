@@ -1,3 +1,4 @@
+import 'package:airbnb/screens/essential_items_screen.dart';
 import 'package:airbnb/widgets/confirmation_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:airbnb/theme.dart';
@@ -72,44 +73,67 @@ class _BookingScreenState extends State<BookingScreen> {
     }
   }
 
-  Future<void> _confirmBooking() async {
-    if (_selectedDate == null) {
-      ScaffoldMessenger.of(context).showSnackBar(
-        SnackBar(content: Text("Please select a travel date")),
-      );
-      return;
-    }
+  // Future<void> _confirmBooking() async {
+  //   if (_selectedDate == null) {
+  //     ScaffoldMessenger.of(context).showSnackBar(
+  //       SnackBar(content: Text("Please select a travel date")),
+  //     );
+  //     return;
+  //   }
 
-    if (_userId == null) {
-      ScaffoldMessenger.of(context).showSnackBar(
-        SnackBar(content: Text("User not logged in!")),
-      );
-      return;
-    }
+  //   if (_userId == null) {
+  //     ScaffoldMessenger.of(context).showSnackBar(
+  //       SnackBar(content: Text("User not logged in!")),
+  //     );
+  //     return;
+  //   }
 
-    try {
-      await FirebaseFirestore.instance.collection('bookings').add({
-        'userId': _userId,
-        'name': widget.property['name'],
-        'city': widget.property['city'],
-        'price': widget.property['price'],
-        'date': _dateController.text,
-        'timestamp': FieldValue.serverTimestamp(),
-      });
+  //   try {
+  //     await FirebaseFirestore.instance.collection('bookings').add({
+  //       'userId': _userId,
+  //       'name': widget.property['name'],
+  //       'city': widget.property['city'],
+  //       'price': widget.property['price'],
+  //       'date': _dateController.text,
+  //       'timestamp': FieldValue.serverTimestamp(),
+  //     });
 
-      Navigator.push(
-        context,
-        MaterialPageRoute(
-          builder: (context) =>
-              BookingConfirmedScreen(property: widget.property),
-        ),
-      );
-    } catch (e) {
-      ScaffoldMessenger.of(context).showSnackBar(
-        SnackBar(content: Text("Failed to book: $e")),
-      );
-    }
+  //     Navigator.push(
+  //       context,
+  //       MaterialPageRoute(
+  //         builder: (context) =>
+  //             BookingConfirmedScreen(property: widget.property),
+  //       ),
+  //     );
+  //   } catch (e) {
+  //     ScaffoldMessenger.of(context).showSnackBar(
+  //       SnackBar(content: Text("Failed to book: $e")),
+  //     );
+  //   }
+  // }
+
+  void _goToEssentialsScreen() {
+  if (_selectedDate == null) {
+    ScaffoldMessenger.of(context).showSnackBar(
+      SnackBar(content: Text("Please select a travel date")),
+    );
+    return;
   }
+
+  Navigator.push(
+    context,
+    MaterialPageRoute(
+      builder: (context) => EssentialSelectionScreen(
+        property: {
+          ...widget.property,
+          'userId': _userId,
+        },
+        selectedDate: _selectedDate!,
+      ),
+    ),
+  );
+}
+
 
   @override
   Widget build(BuildContext context) {
@@ -141,7 +165,6 @@ class _BookingScreenState extends State<BookingScreen> {
               ),
               SizedBox(height: 16),
 
-              // Travel Date Picker
               Text("Travel Date:", style: Theme.of(context).textTheme.titleLarge),
               SizedBox(height: 8),
               TextField(
@@ -200,13 +223,13 @@ class _BookingScreenState extends State<BookingScreen> {
 
               Center(
                 child: ElevatedButton(
-                  onPressed: _confirmBooking,
+                  onPressed: _goToEssentialsScreen,
                   style: ElevatedButton.styleFrom(
                     backgroundColor: primaryColor,
                     padding: EdgeInsets.symmetric(vertical: 12, horizontal: 40),
                   ),
                   child: Text(
-                    "Confirm Booking",
+                    "Proceed",
                     style: Theme.of(context)
                         .textTheme
                         .bodyLarge
